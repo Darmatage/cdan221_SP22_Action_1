@@ -6,11 +6,11 @@ public class EnemyMoveHit : MonoBehaviour {
 
        //public Animator anim;
        public float speed = 4f;
-       public Transform target;
+       private Transform target;
        public int damage = 10;
 
        public int EnemyLives = 3;
-       public GameHandler gameHandler;
+       private GameHandler gameHandler;
 
        public float attackRange = 10;
        public bool isAttacking = false;

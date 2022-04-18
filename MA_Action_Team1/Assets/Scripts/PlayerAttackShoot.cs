@@ -7,7 +7,7 @@ public class PlayerAttackShoot : MonoBehaviour{
       //public Animator animator;
       public Transform firePoint;
       public GameObject projectilePrefab;
-      public float projectileSpeed = 10f
+      public float projectileSpeed = 10f;
       public float attackRate = 2f;
       private float nextAttackTime = 0f;
 
@@ -28,6 +28,6 @@ public class PlayerAttackShoot : MonoBehaviour{
       void playerFire(){
             //animator.SetTrigger ("Fire");
             GameObject projectile = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
-            projectile.AddForce(fwd * projectileSpeed, ForceMode.Impulse);
+            //projectile.AddForce(fwd * projectileSpeed, ForceMode.Impulse);
       }
 }

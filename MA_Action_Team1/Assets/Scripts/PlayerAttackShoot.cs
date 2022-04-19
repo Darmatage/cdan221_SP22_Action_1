@@ -18,7 +18,7 @@ public class PlayerAttackShoot : MonoBehaviour{
       void Update(){
            if (Time.time >= nextAttackTime){
                   //if (Input.GetKeyDown(KeyCode.Space))
-                 if (Input.GetAxis("Attack") > 0){
+                 if (Input.GetAxis("AttackFire") > 0){
                         playerFire();
                         nextAttackTime = Time.time + 1f / attackRate;
                   }
@@ -27,7 +27,8 @@ public class PlayerAttackShoot : MonoBehaviour{
 
       void playerFire(){
             //animator.SetTrigger ("Fire");
+             Vector2 fwd = (firePoint.position - this.transform.position).normalized;
             GameObject projectile = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
-            //projectile.AddForce(fwd * projectileSpeed, ForceMode.Impulse);
+            projectile.GetComponent<Rigidbody2D>().AddForce(fwd * projectileSpeed, ForceMode2D.Impulse);
       }
 }

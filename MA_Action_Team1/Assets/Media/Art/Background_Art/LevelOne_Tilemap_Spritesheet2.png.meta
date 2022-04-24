@@ -1,7 +1,766 @@
 fileFormatVersion: 2
 guid: 7b83bac03167141f19e4e2d6619ec9b2
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2889463500681914760
+    second: LevelOne_Tilemap_Spritesheet2_0
+  - first:
+      213: 4879363392217439184
+    second: LevelOne_Tilemap_Spritesheet2_1
+  - first:
+      213: 4730461548507405977
+    second: LevelOne_Tilemap_Spritesheet2_2
+  - first:
+      213: -6569201859850724283
+    second: LevelOne_Tilemap_Spritesheet2_3
+  - first:
+      213: 4888467439185062545
+    second: LevelOne_Tilemap_Spritesheet2_4
+  - first:
+      213: -282407793115631297
+    second: LevelOne_Tilemap_Spritesheet2_5
+  - first:
+      213: 6324469924366029675
+    second: LevelOne_Tilemap_Spritesheet2_6
+  - first:
+      213: 3325611363512799098
+    second: LevelOne_Tilemap_Spritesheet2_7
+  - first:
+      213: -7369299132056947076
+    second: LevelOne_Tilemap_Spritesheet2_8
+  - first:
+      213: 8324300300558049784
+    second: LevelOne_Tilemap_Spritesheet2_9
+  - first:
+      213: -4052511290001932598
+    second: LevelOne_Tilemap_Spritesheet2_10
+  - first:
+      213: -813857408553818120
+    second: LevelOne_Tilemap_Spritesheet2_11
+  - first:
+      213: 9147609048780119220
+    second: LevelOne_Tilemap_Spritesheet2_12
+  - first:
+      213: -2682248288923134017
+    second: LevelOne_Tilemap_Spritesheet2_13
+  - first:
+      213: -8579677796325263008
+    second: LevelOne_Tilemap_Spritesheet2_14
+  - first:
+      213: 1590408196372985124
+    second: LevelOne_Tilemap_Spritesheet2_15
+  - first:
+      213: 5273034262933031705
+    second: LevelOne_Tilemap_Spritesheet2_16
+  - first:
+      213: 7845948631681020437
+    second: LevelOne_Tilemap_Spritesheet2_17
+  - first:
+      213: -4315819409850664994
+    second: LevelOne_Tilemap_Spritesheet2_18
+  - first:
+      213: 8761251075831476142
+    second: LevelOne_Tilemap_Spritesheet2_19
+  - first:
+      213: 623256055772029361
+    second: LevelOne_Tilemap_Spritesheet2_20
+  - first:
+      213: 7128453679785060279
+    second: LevelOne_Tilemap_Spritesheet2_21
+  - first:
+      213: 4252297306304614983
+    second: LevelOne_Tilemap_Spritesheet2_22
+  - first:
+      213: -3894734494575647031
+    second: LevelOne_Tilemap_Spritesheet2_23
+  - first:
+      213: -6158917408717999683
+    second: LevelOne_Tilemap_Spritesheet2_24
+  - first:
+      213: 5558293744385104489
+    second: LevelOne_Tilemap_Spritesheet2_25
+  - first:
+      213: 3447789493414405345
+    second: LevelOne_Tilemap_Spritesheet2_26
+  - first:
+      213: -3210747562957018338
+    second: LevelOne_Tilemap_Spritesheet2_27
+  - first:
+      213: 7127457745934667764
+    second: LevelOne_Tilemap_Spritesheet2_28
+  - first:
+      213: 3194898308526708184
+    second: LevelOne_Tilemap_Spritesheet2_29
+  - first:
+      213: 8077839004114300518
+    second: LevelOne_Tilemap_Spritesheet2_30
+  - first:
+      213: 1705596545201986705
+    second: LevelOne_Tilemap_Spritesheet2_31
+  - first:
+      213: 8782267846518131692
+    second: LevelOne_Tilemap_Spritesheet2_32
+  - first:
+      213: 5474504099111125334
+    second: LevelOne_Tilemap_Spritesheet2_33
+  - first:
+      213: 2552156403973360779
+    second: LevelOne_Tilemap_Spritesheet2_34
+  - first:
+      213: -1901329569039102357
+    second: LevelOne_Tilemap_Spritesheet2_35
+  - first:
+      213: 1854515282210916830
+    second: LevelOne_Tilemap_Spritesheet2_36
+  - first:
+      213: 7335483580767702202
+    second: LevelOne_Tilemap_Spritesheet2_37
+  - first:
+      213: -3630641382035124569
+    second: LevelOne_Tilemap_Spritesheet2_38
+  - first:
+      213: -6463402133026586643
+    second: LevelOne_Tilemap_Spritesheet2_39
+  - first:
+      213: 4328796502074590497
+    second: LevelOne_Tilemap_Spritesheet2_40
+  - first:
+      213: 8662451468228701979
+    second: LevelOne_Tilemap_Spritesheet2_41
+  - first:
+      213: 8863529986353495185
+    second: LevelOne_Tilemap_Spritesheet2_42
+  - first:
+      213: 1174522154580767965
+    second: LevelOne_Tilemap_Spritesheet2_43
+  - first:
+      213: -3181870338615572900
+    second: LevelOne_Tilemap_Spritesheet2_44
+  - first:
+      213: 4652451914670283504
+    second: LevelOne_Tilemap_Spritesheet2_45
+  - first:
+      213: -3483951427706606032
+    second: LevelOne_Tilemap_Spritesheet2_46
+  - first:
+      213: 6255702253091203563
+    second: LevelOne_Tilemap_Spritesheet2_47
+  - first:
+      213: 7689936528656174872
+    second: LevelOne_Tilemap_Spritesheet2_48
+  - first:
+      213: 2605730123473386917
+    second: LevelOne_Tilemap_Spritesheet2_49
+  - first:
+      213: -3490133005360018740
+    second: LevelOne_Tilemap_Spritesheet2_50
+  - first:
+      213: -7811742663151121906
+    second: LevelOne_Tilemap_Spritesheet2_51
+  - first:
+      213: 4696660019589997469
+    second: LevelOne_Tilemap_Spritesheet2_52
+  - first:
+      213: 328847214686332902
+    second: LevelOne_Tilemap_Spritesheet2_53
+  - first:
+      213: -4042559707628135323
+    second: LevelOne_Tilemap_Spritesheet2_54
+  - first:
+      213: -3708273003570229696
+    second: LevelOne_Tilemap_Spritesheet2_55
+  - first:
+      213: -7760489677158753481
+    second: LevelOne_Tilemap_Spritesheet2_56
+  - first:
+      213: -5340436888357897600
+    second: LevelOne_Tilemap_Spritesheet2_57
+  - first:
+      213: 7238562072209933602
+    second: LevelOne_Tilemap_Spritesheet2_58
+  - first:
+      213: -2649982876539243193
+    second: LevelOne_Tilemap_Spritesheet2_59
+  - first:
+      213: -6537044867363916206
+    second: LevelOne_Tilemap_Spritesheet2_60
+  - first:
+      213: 7954916155086515574
+    second: LevelOne_Tilemap_Spritesheet2_61
+  - first:
+      213: 3201786928736825810
+    second: LevelOne_Tilemap_Spritesheet2_62
+  - first:
+      213: -4282953068905094576
+    second: LevelOne_Tilemap_Spritesheet2_63
+  - first:
+      213: 3848255840023430714
+    second: LevelOne_Tilemap_Spritesheet2_64
+  - first:
+      213: 2750675072980444526
+    second: LevelOne_Tilemap_Spritesheet2_65
+  - first:
+      213: -938991585959038730
+    second: LevelOne_Tilemap_Spritesheet2_66
+  - first:
+      213: 3528347652350511944
+    second: LevelOne_Tilemap_Spritesheet2_67
+  - first:
+      213: 2046991547668898264
+    second: LevelOne_Tilemap_Spritesheet2_68
+  - first:
+      213: -5356289413071357389
+    second: LevelOne_Tilemap_Spritesheet2_69
+  - first:
+      213: 4647720737576905884
+    second: LevelOne_Tilemap_Spritesheet2_70
+  - first:
+      213: -2121110058369907774
+    second: LevelOne_Tilemap_Spritesheet2_71
+  - first:
+      213: -4373006859367589649
+    second: LevelOne_Tilemap_Spritesheet2_72
+  - first:
+      213: 604589322515987634
+    second: LevelOne_Tilemap_Spritesheet2_73
+  - first:
+      213: 8014411468304669914
+    second: LevelOne_Tilemap_Spritesheet2_74
+  - first:
+      213: -7663880861542068803
+    second: LevelOne_Tilemap_Spritesheet2_75
+  - first:
+      213: -193253719381146969
+    second: LevelOne_Tilemap_Spritesheet2_76
+  - first:
+      213: -5690881217156969245
+    second: LevelOne_Tilemap_Spritesheet2_77
+  - first:
+      213: -5546525919183494578
+    second: LevelOne_Tilemap_Spritesheet2_78
+  - first:
+      213: 8686764146949100933
+    second: LevelOne_Tilemap_Spritesheet2_79
+  - first:
+      213: -6908008503284831114
+    second: LevelOne_Tilemap_Spritesheet2_80
+  - first:
+      213: 3627215952174820474
+    second: LevelOne_Tilemap_Spritesheet2_81
+  - first:
+      213: 1161225164254403683
+    second: LevelOne_Tilemap_Spritesheet2_82
+  - first:
+      213: 2438009582682089105
+    second: LevelOne_Tilemap_Spritesheet2_83
+  - first:
+      213: -8716025713834735878
+    second: LevelOne_Tilemap_Spritesheet2_84
+  - first:
+      213: -1749051899490893531
+    second: LevelOne_Tilemap_Spritesheet2_85
+  - first:
+      213: -5820715328016663097
+    second: LevelOne_Tilemap_Spritesheet2_86
+  - first:
+      213: 7138178684728077407
+    second: LevelOne_Tilemap_Spritesheet2_87
+  - first:
+      213: -5522409397577210453
+    second: LevelOne_Tilemap_Spritesheet2_88
+  - first:
+      213: 6133260838626790256
+    second: LevelOne_Tilemap_Spritesheet2_89
+  - first:
+      213: 8983668942051369026
+    second: LevelOne_Tilemap_Spritesheet2_90
+  - first:
+      213: 7659238400560149870
+    second: LevelOne_Tilemap_Spritesheet2_91
+  - first:
+      213: 7103800292561195977
+    second: LevelOne_Tilemap_Spritesheet2_92
+  - first:
+      213: 8500806587295768115
+    second: LevelOne_Tilemap_Spritesheet2_93
+  - first:
+      213: 2198567185576121893
+    second: LevelOne_Tilemap_Spritesheet2_94
+  - first:
+      213: -286858685301475538
+    second: LevelOne_Tilemap_Spritesheet2_95
+  - first:
+      213: 4568825692786071249
+    second: LevelOne_Tilemap_Spritesheet2_96
+  - first:
+      213: -8349569542958555191
+    second: LevelOne_Tilemap_Spritesheet2_97
+  - first:
+      213: -9140617258263792154
+    second: LevelOne_Tilemap_Spritesheet2_98
+  - first:
+      213: -2807857595552435811
+    second: LevelOne_Tilemap_Spritesheet2_99
+  - first:
+      213: -7958149541606862105
+    second: LevelOne_Tilemap_Spritesheet2_100
+  - first:
+      213: -8254038850734204054
+    second: LevelOne_Tilemap_Spritesheet2_101
+  - first:
+      213: -2096249062506189378
+    second: LevelOne_Tilemap_Spritesheet2_102
+  - first:
+      213: 3560450676291423878
+    second: LevelOne_Tilemap_Spritesheet2_103
+  - first:
+      213: -4835306475033947847
+    second: LevelOne_Tilemap_Spritesheet2_104
+  - first:
+      213: 7933865916415529579
+    second: LevelOne_Tilemap_Spritesheet2_105
+  - first:
+      213: 2689543860366575831
+    second: LevelOne_Tilemap_Spritesheet2_106
+  - first:
+      213: 6677391215181280529
+    second: LevelOne_Tilemap_Spritesheet2_107
+  - first:
+      213: 4231147350843641970
+    second: LevelOne_Tilemap_Spritesheet2_108
+  - first:
+      213: -9183147589839425657
+    second: LevelOne_Tilemap_Spritesheet2_109
+  - first:
+      213: 8850800949472791263
+    second: LevelOne_Tilemap_Spritesheet2_110
+  - first:
+      213: -3838287162116814327
+    second: LevelOne_Tilemap_Spritesheet2_111
+  - first:
+      213: 1857923208980965822
+    second: LevelOne_Tilemap_Spritesheet2_112
+  - first:
+      213: 1002862113531754167
+    second: LevelOne_Tilemap_Spritesheet2_113
+  - first:
+      213: 6809427168514200823
+    second: LevelOne_Tilemap_Spritesheet2_114
+  - first:
+      213: 2671345940412600261
+    second: LevelOne_Tilemap_Spritesheet2_115
+  - first:
+      213: -7000606713479841054
+    second: LevelOne_Tilemap_Spritesheet2_116
+  - first:
+      213: 1198465138823026511
+    second: LevelOne_Tilemap_Spritesheet2_117
+  - first:
+      213: 710829546796066442
+    second: LevelOne_Tilemap_Spritesheet2_118
+  - first:
+      213: -5784764324266097709
+    second: LevelOne_Tilemap_Spritesheet2_119
+  - first:
+      213: -6144566168228267982
+    second: LevelOne_Tilemap_Spritesheet2_120
+  - first:
+      213: -8060546933866184982
+    second: LevelOne_Tilemap_Spritesheet2_121
+  - first:
+      213: -6592345826001143496
+    second: LevelOne_Tilemap_Spritesheet2_122
+  - first:
+      213: 1890308907235596096
+    second: LevelOne_Tilemap_Spritesheet2_123
+  - first:
+      213: 1911653671620544796
+    second: LevelOne_Tilemap_Spritesheet2_124
+  - first:
+      213: -3266536120968066663
+    second: LevelOne_Tilemap_Spritesheet2_125
+  - first:
+      213: -6189210004136297681
+    second: LevelOne_Tilemap_Spritesheet2_126
+  - first:
+      213: -857391077667060391
+    second: LevelOne_Tilemap_Spritesheet2_127
+  - first:
+      213: -9103965979750252725
+    second: LevelOne_Tilemap_Spritesheet2_128
+  - first:
+      213: -6214874006911569522
+    second: LevelOne_Tilemap_Spritesheet2_129
+  - first:
+      213: -7119472843326175012
+    second: LevelOne_Tilemap_Spritesheet2_130
+  - first:
+      213: 3859479745612611486
+    second: LevelOne_Tilemap_Spritesheet2_131
+  - first:
+      213: -7005288248910197327
+    second: LevelOne_Tilemap_Spritesheet2_132
+  - first:
+      213: 7908692818442467226
+    second: LevelOne_Tilemap_Spritesheet2_133
+  - first:
+      213: 5601049354381333612
+    second: LevelOne_Tilemap_Spritesheet2_134
+  - first:
+      213: -6086693524367740238
+    second: LevelOne_Tilemap_Spritesheet2_135
+  - first:
+      213: 7711108070426418813
+    second: LevelOne_Tilemap_Spritesheet2_136
+  - first:
+      213: 8936675515886819233
+    second: LevelOne_Tilemap_Spritesheet2_137
+  - first:
+      213: 7819550294280388442
+    second: LevelOne_Tilemap_Spritesheet2_138
+  - first:
+      213: -3249514419633675443
+    second: LevelOne_Tilemap_Spritesheet2_139
+  - first:
+      213: 1461176192415329013
+    second: LevelOne_Tilemap_Spritesheet2_140
+  - first:
+      213: 4035748249935877769
+    second: LevelOne_Tilemap_Spritesheet2_141
+  - first:
+      213: -7156237585183779317
+    second: LevelOne_Tilemap_Spritesheet2_142
+  - first:
+      213: 7280683975278788099
+    second: LevelOne_Tilemap_Spritesheet2_143
+  - first:
+      213: -4582634350120498693
+    second: LevelOne_Tilemap_Spritesheet2_144
+  - first:
+      213: -1982963179480373666
+    second: LevelOne_Tilemap_Spritesheet2_145
+  - first:
+      213: 1586291901059491030
+    second: LevelOne_Tilemap_Spritesheet2_146
+  - first:
+      213: 2865222317641943566
+    second: LevelOne_Tilemap_Spritesheet2_147
+  - first:
+      213: 4621582077748280589
+    second: LevelOne_Tilemap_Spritesheet2_148
+  - first:
+      213: 6720404335155780985
+    second: LevelOne_Tilemap_Spritesheet2_149
+  - first:
+      213: 6529248694055243681
+    second: LevelOne_Tilemap_Spritesheet2_150
+  - first:
+      213: -8915805259492024506
+    second: LevelOne_Tilemap_Spritesheet2_151
+  - first:
+      213: 6379912710339699502
+    second: LevelOne_Tilemap_Spritesheet2_152
+  - first:
+      213: 1450740156811316778
+    second: LevelOne_Tilemap_Spritesheet2_153
+  - first:
+      213: 2088831859671086267
+    second: LevelOne_Tilemap_Spritesheet2_154
+  - first:
+      213: -1937555499107421899
+    second: LevelOne_Tilemap_Spritesheet2_155
+  - first:
+      213: -5427831639677742850
+    second: LevelOne_Tilemap_Spritesheet2_156
+  - first:
+      213: -4822129607550606022
+    second: LevelOne_Tilemap_Spritesheet2_157
+  - first:
+      213: 3493120377842019798
+    second: LevelOne_Tilemap_Spritesheet2_158
+  - first:
+      213: 5435813947040757240
+    second: LevelOne_Tilemap_Spritesheet2_159
+  - first:
+      213: -8646353846063623523
+    second: LevelOne_Tilemap_Spritesheet2_160
+  - first:
+      213: 357314127945834307
+    second: LevelOne_Tilemap_Spritesheet2_161
+  - first:
+      213: 4419249293200035600
+    second: LevelOne_Tilemap_Spritesheet2_162
+  - first:
+      213: -1201743112034178032
+    second: LevelOne_Tilemap_Spritesheet2_163
+  - first:
+      213: -436530833025644175
+    second: LevelOne_Tilemap_Spritesheet2_164
+  - first:
+      213: 7867198981104699149
+    second: LevelOne_Tilemap_Spritesheet2_165
+  - first:
+      213: 5465642584502261181
+    second: LevelOne_Tilemap_Spritesheet2_166
+  - first:
+      213: -3051287220510925788
+    second: LevelOne_Tilemap_Spritesheet2_167
+  - first:
+      213: -3628031376116235573
+    second: LevelOne_Tilemap_Spritesheet2_168
+  - first:
+      213: 5290719703200723193
+    second: LevelOne_Tilemap_Spritesheet2_169
+  - first:
+      213: -7563123614679060245
+    second: LevelOne_Tilemap_Spritesheet2_170
+  - first:
+      213: -146097784581443481
+    second: LevelOne_Tilemap_Spritesheet2_171
+  - first:
+      213: 6705213440391673481
+    second: LevelOne_Tilemap_Spritesheet2_172
+  - first:
+      213: 7799764330003503983
+    second: LevelOne_Tilemap_Spritesheet2_173
+  - first:
+      213: 7919702454472527347
+    second: LevelOne_Tilemap_Spritesheet2_174
+  - first:
+      213: -4194962446267986534
+    second: LevelOne_Tilemap_Spritesheet2_175
+  - first:
+      213: -6399216109985118419
+    second: LevelOne_Tilemap_Spritesheet2_176
+  - first:
+      213: 2813575415371207032
+    second: LevelOne_Tilemap_Spritesheet2_177
+  - first:
+      213: 5053753875271358948
+    second: LevelOne_Tilemap_Spritesheet2_178
+  - first:
+      213: -9099917547307061551
+    second: LevelOne_Tilemap_Spritesheet2_179
+  - first:
+      213: 426970718398493345
+    second: LevelOne_Tilemap_Spritesheet2_180
+  - first:
+      213: 8271898567378980411
+    second: LevelOne_Tilemap_Spritesheet2_181
+  - first:
+      213: -8764232864323340082
+    second: LevelOne_Tilemap_Spritesheet2_182
+  - first:
+      213: -6442481520435401055
+    second: LevelOne_Tilemap_Spritesheet2_183
+  - first:
+      213: 1528082097799031659
+    second: LevelOne_Tilemap_Spritesheet2_184
+  - first:
+      213: -6312128329707908132
+    second: LevelOne_Tilemap_Spritesheet2_185
+  - first:
+      213: -7800119107679485895
+    second: LevelOne_Tilemap_Spritesheet2_186
+  - first:
+      213: -8972475570267352506
+    second: LevelOne_Tilemap_Spritesheet2_187
+  - first:
+      213: -6039566677692692656
+    second: LevelOne_Tilemap_Spritesheet2_188
+  - first:
+      213: 156845522756673306
+    second: LevelOne_Tilemap_Spritesheet2_189
+  - first:
+      213: 1758364856756788100
+    second: LevelOne_Tilemap_Spritesheet2_190
+  - first:
+      213: -2273240685254870537
+    second: LevelOne_Tilemap_Spritesheet2_191
+  - first:
+      213: 2281467899933835062
+    second: LevelOne_Tilemap_Spritesheet2_192
+  - first:
+      213: -5662014823471060440
+    second: LevelOne_Tilemap_Spritesheet2_193
+  - first:
+      213: 6904449953806511758
+    second: LevelOne_Tilemap_Spritesheet2_194
+  - first:
+      213: 8005497129495839178
+    second: LevelOne_Tilemap_Spritesheet2_195
+  - first:
+      213: -4009828632373075665
+    second: LevelOne_Tilemap_Spritesheet2_196
+  - first:
+      213: -7865812340710059361
+    second: LevelOne_Tilemap_Spritesheet2_197
+  - first:
+      213: -1269570300119015880
+    second: LevelOne_Tilemap_Spritesheet2_198
+  - first:
+      213: 8342204817270835754
+    second: LevelOne_Tilemap_Spritesheet2_199
+  - first:
+      213: 8754565723749983801
+    second: LevelOne_Tilemap_Spritesheet2_200
+  - first:
+      213: -7111409684843143695
+    second: LevelOne_Tilemap_Spritesheet2_201
+  - first:
+      213: 1108452823349479600
+    second: LevelOne_Tilemap_Spritesheet2_202
+  - first:
+      213: -6876290367153163489
+    second: LevelOne_Tilemap_Spritesheet2_203
+  - first:
+      213: -2756012580734054181
+    second: LevelOne_Tilemap_Spritesheet2_204
+  - first:
+      213: -6975288299265607595
+    second: LevelOne_Tilemap_Spritesheet2_205
+  - first:
+      213: 4786757960254637016
+    second: LevelOne_Tilemap_Spritesheet2_206
+  - first:
+      213: -8927536129268421952
+    second: LevelOne_Tilemap_Spritesheet2_207
+  - first:
+      213: 6165460729247883039
+    second: LevelOne_Tilemap_Spritesheet2_208
+  - first:
+      213: 728698713716779221
+    second: LevelOne_Tilemap_Spritesheet2_209
+  - first:
+      213: 9000483846483312758
+    second: LevelOne_Tilemap_Spritesheet2_210
+  - first:
+      213: 1908444917254880407
+    second: LevelOne_Tilemap_Spritesheet2_211
+  - first:
+      213: 3052995254488431596
+    second: LevelOne_Tilemap_Spritesheet2_212
+  - first:
+      213: -946190925248140844
+    second: LevelOne_Tilemap_Spritesheet2_213
+  - first:
+      213: 7352503242720706501
+    second: LevelOne_Tilemap_Spritesheet2_214
+  - first:
+      213: 5576703525837906762
+    second: LevelOne_Tilemap_Spritesheet2_215
+  - first:
+      213: -5888561203468524950
+    second: LevelOne_Tilemap_Spritesheet2_216
+  - first:
+      213: 3872388002735037659
+    second: LevelOne_Tilemap_Spritesheet2_217
+  - first:
+      213: -2743868493720796331
+    second: LevelOne_Tilemap_Spritesheet2_218
+  - first:
+      213: 7226908907855780928
+    second: LevelOne_Tilemap_Spritesheet2_219
+  - first:
+      213: -3805306935105074610
+    second: LevelOne_Tilemap_Spritesheet2_220
+  - first:
+      213: 7120086724489785112
+    second: LevelOne_Tilemap_Spritesheet2_221
+  - first:
+      213: -6159637067539920966
+    second: LevelOne_Tilemap_Spritesheet2_222
+  - first:
+      213: 2605212339729978970
+    second: LevelOne_Tilemap_Spritesheet2_223
+  - first:
+      213: -9059901919708553817
+    second: LevelOne_Tilemap_Spritesheet2_224
+  - first:
+      213: -2896104317551993083
+    second: LevelOne_Tilemap_Spritesheet2_225
+  - first:
+      213: 2491593658127709701
+    second: LevelOne_Tilemap_Spritesheet2_226
+  - first:
+      213: -2660563422931084870
+    second: LevelOne_Tilemap_Spritesheet2_227
+  - first:
+      213: 4944994794004193522
+    second: LevelOne_Tilemap_Spritesheet2_228
+  - first:
+      213: 2746345678471054476
+    second: LevelOne_Tilemap_Spritesheet2_229
+  - first:
+      213: -8511308199304659142
+    second: LevelOne_Tilemap_Spritesheet2_230
+  - first:
+      213: -3928083524862803914
+    second: LevelOne_Tilemap_Spritesheet2_231
+  - first:
+      213: -1188453101508589022
+    second: LevelOne_Tilemap_Spritesheet2_232
+  - first:
+      213: 8489925678726833819
+    second: LevelOne_Tilemap_Spritesheet2_233
+  - first:
+      213: 4944701287486130052
+    second: LevelOne_Tilemap_Spritesheet2_234
+  - first:
+      213: 3117953320898797011
+    second: LevelOne_Tilemap_Spritesheet2_235
+  - first:
+      213: 1675686760297951560
+    second: LevelOne_Tilemap_Spritesheet2_236
+  - first:
+      213: -420822622808280816
+    second: LevelOne_Tilemap_Spritesheet2_237
+  - first:
+      213: -1474377158483709619
+    second: LevelOne_Tilemap_Spritesheet2_238
+  - first:
+      213: -3471984305302277346
+    second: LevelOne_Tilemap_Spritesheet2_239
+  - first:
+      213: -8304320501782566557
+    second: LevelOne_Tilemap_Spritesheet2_240
+  - first:
+      213: -7834760272950694478
+    second: LevelOne_Tilemap_Spritesheet2_241
+  - first:
+      213: -4057826371542088978
+    second: LevelOne_Tilemap_Spritesheet2_242
+  - first:
+      213: -6196868087426450430
+    second: LevelOne_Tilemap_Spritesheet2_243
+  - first:
+      213: -3342440855676264499
+    second: LevelOne_Tilemap_Spritesheet2_244
+  - first:
+      213: -5000755647572151945
+    second: LevelOne_Tilemap_Spritesheet2_245
+  - first:
+      213: 9107386092540205944
+    second: LevelOne_Tilemap_Spritesheet2_246
+  - first:
+      213: 1819964290372630027
+    second: LevelOne_Tilemap_Spritesheet2_247
+  - first:
+      213: -1517595957984226660
+    second: LevelOne_Tilemap_Spritesheet2_248
+  - first:
+      213: -8786460552439715558
+    second: LevelOne_Tilemap_Spritesheet2_249
+  - first:
+      213: 5965195676710451366
+    second: LevelOne_Tilemap_Spritesheet2_250
+  - first:
+      213: -1749276795444858299
+    second: LevelOne_Tilemap_Spritesheet2_251
+  - first:
+      213: 7214917868099613577
+    second: LevelOne_Tilemap_Spritesheet2_252
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +791,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +800,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +827,31 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +860,5320 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876d562514096e7d0800000000000000
+      internalID: -2889463500681914760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db5a2b372bf6b340800000000000000
+      internalID: 4879363392217439184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e9d6e17b9f5a140800000000000000
+      internalID: 4730461548507405977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c13cda6b185d4a0800000000000000
+      internalID: -6569201859850724283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a60b85c3357d340800000000000000
+      internalID: 4888467439185062545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f317a81cb9fa41cf0800000000000000
+      internalID: -282407793115631297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639a7243e705c750800000000000000
+      internalID: 6324469924366029675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fce2f4ae1f62e20800000000000000
+      internalID: 3325611363512799098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76b62ecb7dfab990800000000000000
+      internalID: -7369299132056947076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1a072f40bd58370800000000000000
+      internalID: 8324300300558049784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acebc2fe37692c7c0800000000000000
+      internalID: -4052511290001932598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f76459bff894b4f0800000000000000
+      internalID: -813857408553818120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc10b8b6f5d2fe70800000000000000
+      internalID: 9147609048780119220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75653746db6cad0800000000000000
+      internalID: -2682248288923134017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f9b6508cdee880800000000000000
+      internalID: -8579677796325263008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4257ea804d3421610800000000000000
+      internalID: 1590408196372985124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b469279b49d2940800000000000000
+      internalID: 5273034262933031705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5123f4df5b862ec60800000000000000
+      internalID: 7845948631681020437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed77d19ec112b14c0800000000000000
+      internalID: -4315819409850664994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafa1f23f67369970800000000000000
+      internalID: 8761251075831476142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b12760a41046a800800000000000000
+      internalID: 623256055772029361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b72a658ada5de260800000000000000
+      internalID: 7128453679785060279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74213a5ded1330b30800000000000000
+      internalID: 4252297306304614983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6ab54cc9f13f9c0800000000000000
+      internalID: -3894734494575647031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f4648f31278aa0800000000000000
+      internalID: -6158917408717999683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a995f16b6032d40800000000000000
+      internalID: 5558293744385104489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42a4fe64209df20800000000000000
+      internalID: 3447789493414405345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bee7e4a122173d0800000000000000
+      internalID: -3210747562957018338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffca0a9e01d9e260800000000000000
+      internalID: 7127457745934667764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d51b35951f865c20800000000000000
+      internalID: 3194898308526708184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e2709a6cf3a1070800000000000000
+      internalID: 8077839004114300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cd5ee650f7ba710800000000000000
+      internalID: 1705596545201986705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb4c027312e0e970800000000000000
+      internalID: 8782267846518131692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65140f4197859fb40800000000000000
+      internalID: 5474504099111125334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c021e3ab41b6320800000000000000
+      internalID: 2552156403973360779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e4a74a4de1d95e0800000000000000
+      internalID: -1901329569039102357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed907b2d2df8cb910800000000000000
+      internalID: 1854515282210916830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8e5f937fdcc560800000000000000
+      internalID: 7335483580767702202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae86f426ee5d9dc0800000000000000
+      internalID: -3630641382035124569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defb27c21026d46a0800000000000000
+      internalID: -6463402133026586643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1250c13db79f21c30800000000000000
+      internalID: 4328796502074590497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f25d7f6b5373870800000000000000
+      internalID: 8662451468228701979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c7f94cf85910b70800000000000000
+      internalID: 8863529986353495185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4fc9c3dadbc4010800000000000000
+      internalID: 1174522154580767965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56877909c9b7d3d0800000000000000
+      internalID: -3181870338615572900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa128cdd54d09040800000000000000
+      internalID: 4652451914670283504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e25d0a2a486afc0800000000000000
+      internalID: -3483951427706606032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9ac181e08b0d650800000000000000
+      internalID: 6255702253091203563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f0adf978428ba60800000000000000
+      internalID: 7689936528656174872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7a26ddb9692420800000000000000
+      internalID: 2605730123473386917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca46ace58e809fc0800000000000000
+      internalID: -3490133005360018740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0d1eaf6d179390800000000000000
+      internalID: -7811742663151121906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e0726763ed2140800000000000000
+      internalID: 4696660019589997469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e761c8accc409400800000000000000
+      internalID: 328847214686332902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c94834d51f5e7c0800000000000000
+      internalID: -4042559707628135323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e860cb951998cc0800000000000000
+      internalID: -3708273003570229696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bddd561c33d4490800000000000000
+      internalID: -7760489677158753481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af804e1f4f2e5b0800000000000000
+      internalID: -5340436888357897600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22540b66ad9847460800000000000000
+      internalID: 7238562072209933602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745b20f2d9e593bd0800000000000000
+      internalID: -2649982876539243193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256bbffe350c745a0800000000000000
+      internalID: -6537044867363916206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da2f9981a856e60800000000000000
+      internalID: 7954916155086515574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f8d57f380f6c20800000000000000
+      internalID: 3201786928736825810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522e3a30e4ef84c0800000000000000
+      internalID: -4282953068905094576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364b6d2c40c76530800000000000000
+      internalID: 3848255840023430714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e656589b76c5c2620800000000000000
+      internalID: 2750675072980444526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0b4d7a02808f2f0800000000000000
+      internalID: -938991585959038730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b8f6eee7537f030800000000000000
+      internalID: 3528347652350511944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1280997ff586c10800000000000000
+      internalID: 2046991547668898264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a32bb5823aaa5b0800000000000000
+      internalID: -5356289413071357389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cec7ad265008040800000000000000
+      internalID: 4647720737576905884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c38a59d3ad4092e0800000000000000
+      internalID: -2121110058369907774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe85c0b3e65ff43c0800000000000000
+      internalID: -4373006859367589649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc3f8b19cee36800800000000000000
+      internalID: 604589322515987634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcdd1ca4c8e83f60800000000000000
+      internalID: 8014411468304669914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdcede16fc64a590800000000000000
+      internalID: -7663880861542068803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a283c024cc615df0800000000000000
+      internalID: -193253719381146969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec8a604fade501b0800000000000000
+      internalID: -5690881217156969245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4222913018c603b0800000000000000
+      internalID: -5546525919183494578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585108a97f59d8870800000000000000
+      internalID: 8686764146949100933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6450ddd2d120a0800000000000000
+      internalID: -6908008503284831114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ca201d0b5765230800000000000000
+      internalID: 3627215952174820474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cd0ab62208d1010800000000000000
+      internalID: 1161225164254403683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a3ce5ccc85d120800000000000000
+      internalID: 2438009582682089105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6c5b1fac47a0780800000000000000
+      internalID: -8716025713834735878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5218f15709e1ab7e0800000000000000
+      internalID: -1749051899490893531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd35e6af3aa83fa0800000000000000
+      internalID: -5820715328016663097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c6b7ea1b7ef0360800000000000000
+      internalID: 7138178684728077407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5a12179e57c53b0800000000000000
+      internalID: -5522409397577210453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0a21cc38bd1550800000000000000
+      internalID: 6133260838626790256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2406ea62e476cac70800000000000000
+      internalID: 8983668942051369026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e653b63beb41b4a60800000000000000
+      internalID: 7659238400560149870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c31d618ab4c59260800000000000000
+      internalID: 7103800292561195977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e901c4d8ee8f570800000000000000
+      internalID: 8500806587295768115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526581fe431e28e10800000000000000
+      internalID: 2198567185576121893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27bed9ab8fd40cf0800000000000000
+      internalID: -286858685301475538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6113bc2cab76f30800000000000000
+      internalID: 4568825692786071249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfd8841dbe502c80800000000000000
+      internalID: -8349569542958555191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5b16d5801062180800000000000000
+      internalID: -9140617258263792154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f63db46c7809d0800000000000000
+      internalID: -2807857595552435811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2d51fe729fe8190800000000000000
+      internalID: -7958149541606862105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd6b3a563c37d80800000000000000
+      internalID: -8254038850734204054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebda2948590a8e2e0800000000000000
+      internalID: -2096249062506189378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e46a8a603496130800000000000000
+      internalID: 3560450676291423878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9319477216a85ecb0800000000000000
+      internalID: -4835306475033947847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62d68bf301ca1e60800000000000000
+      internalID: 7933865916415529579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d88bf424ed235520800000000000000
+      internalID: 2689543860366575831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b13f8eebdaac50800000000000000
+      internalID: 6677391215181280529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270de57191e08ba30800000000000000
+      internalID: 4231147350843641970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fe2a3ebe7ee8080800000000000000
+      internalID: -9183147589839425657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda040be19c54da70800000000000000
+      internalID: 8850800949472791263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ac514892aabbac0800000000000000
+      internalID: -3838287162116814327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9a34b905ba8c910800000000000000
+      internalID: 1857923208980965822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6f1c367c1eaed00800000000000000
+      internalID: 1002862113531754167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4de2f8ee1ff7e50800000000000000
+      internalID: 6809427168514200823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf897abaf6821520800000000000000
+      internalID: 2671345940412600261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eab1dee849d8de90800000000000000
+      internalID: -7000606713479841054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f475c3ba1bdc1a010800000000000000
+      internalID: 1198465138823026511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a1a8e4bf5dd900800000000000000
+      internalID: 710829546796066442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d344cefe7368bfa0800000000000000
+      internalID: -5784764324266097709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238fed310ad1abaa0800000000000000
+      internalID: -6144566168228267982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_121
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeba8f254f232090800000000000000
+      internalID: -8060546933866184982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8393ca426684384a0800000000000000
+      internalID: -6592345826001143496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_123
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047d8839fe9bb3a10800000000000000
+      internalID: 1890308907235596096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19838ec2ee878a10800000000000000
+      internalID: 1911653671620544796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99947bf64beeaa2d0800000000000000
+      internalID: -3266536120968066663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b79270b428b1aa0800000000000000
+      internalID: -6189210004136297681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955c0168b5fe914f0800000000000000
+      internalID: -857391077667060391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fbeb12d2738a180800000000000000
+      internalID: -9103965979750252725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e813a3eb40550c9a0800000000000000
+      internalID: -6214874006911569522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8c0896b2d823d90800000000000000
+      internalID: -7119472843326175012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ffd075160af8530800000000000000
+      internalID: 3859479745612611486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_132
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd4d76047738ce90800000000000000
+      internalID: -7005288248910197327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9732f0673251cd60800000000000000
+      internalID: 7908692818442467226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64945156bceabd40800000000000000
+      internalID: 5601049354381333612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_135
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f36ffc78b78ba0800000000000000
+      internalID: -6086693524367740238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1a625feb530b60800000000000000
+      internalID: 7711108070426418813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_137
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a75d5d7803750c70800000000000000
+      internalID: 8936675515886819233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_138
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f32e9109f948c60800000000000000
+      internalID: 7819550294280388442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_139
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43a93d1ad767e2d0800000000000000
+      internalID: -3249514419633675443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_140
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa6c2f5104274410800000000000000
+      internalID: 1461176192415329013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9861558a6abd10830800000000000000
+      internalID: 4035748249935877769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0652d6e4dfefac90800000000000000
+      internalID: -7156237585183779317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_143
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30efe54308f2a0560800000000000000
+      internalID: 7280683975278788099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf98091a6563760c0800000000000000
+      internalID: -4582634350120498693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56a4649e791b74e0800000000000000
+      internalID: -1982963179480373666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4eab85414a30610800000000000000
+      internalID: 1586291901059491030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac19d648053c720800000000000000
+      internalID: 2865222317641943566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7f7cd968232040800000000000000
+      internalID: 4621582077748280589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_149
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d94f7f22ca34d50800000000000000
+      internalID: 6720404335155780985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8853081d8c9a50800000000000000
+      internalID: 6529248694055243681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f1b6dba52b44480800000000000000
+      internalID: -8915805259492024506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_152
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e232ccdcec00a8850800000000000000
+      internalID: 6379912710339699502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_153
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e022c7c70122410800000000000000
+      internalID: 1450740156811316778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_154
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4b63f52850dfc10800000000000000
+      internalID: 2088831859671086267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_155
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f8170a8b6c15e0800000000000000
+      internalID: -1937555499107421899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_156
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d160b1e77ca4b0800000000000000
+      internalID: -5427831639677742850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a356d01bbaa541db0800000000000000
+      internalID: -4822129607550606022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_158
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dda3fee97e0a7030800000000000000
+      internalID: 3493120377842019798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_159
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f57a721cf3ef6b40800000000000000
+      internalID: 5435813947040757240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d929b03ccfaf10880800000000000000
+      internalID: -8646353846063623523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f90756e4f65f400800000000000000
+      internalID: 357314127945834307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_162
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f851761d3545d30800000000000000
+      internalID: 4419249293200035600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c2ee7b10d825fe0800000000000000
+      internalID: -1201743112034178032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179400c258121f9f0800000000000000
+      internalID: -436530833025644175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_165
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078f068ac7ed2d60800000000000000
+      internalID: 7867198981104699149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5518ee8fcd9db40800000000000000
+      internalID: 5465642584502261181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_167
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd1c97076a7a5d0800000000000000
+      internalID: -3051287220510925788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_168
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2ce908fa4a6adc0800000000000000
+      internalID: -3628031376116235573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_169
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f07073e9896c6940800000000000000
+      internalID: 5290719703200723193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_170
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0bfa2c4236a0790800000000000000
+      internalID: -7563123614679060245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_171
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7603d87c6d4f8fdf0800000000000000
+      internalID: -146097784581443481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_172
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98678b92914bd0d50800000000000000
+      internalID: 6705213440391673481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b1f9d45545e3c60800000000000000
+      internalID: 7799764330003503983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdcf950c6f68ed60800000000000000
+      internalID: 7919702454472527347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_175
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dc71881ef78c5c0800000000000000
+      internalID: -4194962446267986534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_176
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27416b3ada6137a0800000000000000
+      internalID: -6399216109985118419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87119fdeee3db0720800000000000000
+      internalID: 2813575415371207032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e99dc5af5a822640800000000000000
+      internalID: 5053753875271358948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de2b63443996b180800000000000000
+      internalID: -9099917547307061551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_180
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2b2af2b97ece500800000000000000
+      internalID: 426970718398493345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_181
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ecfaeabefabc270800000000000000
+      internalID: 8271898567378980411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f33115a03f5680800000000000000
+      internalID: -8764232864323340082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_183
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeed6ed035b796a0800000000000000
+      internalID: -6442481520435401055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_184
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be1f26296d43510800000000000000
+      internalID: 1528082097799031659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_185
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3941b2ab0d668a0800000000000000
+      internalID: -6312128329707908132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_186
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93007059ff860c390800000000000000
+      internalID: -7800119107679485895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_187
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642185ec10d5b7380800000000000000
+      internalID: -8972475570267352506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_188
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05747da0b162f2ca0800000000000000
+      internalID: -6039566677692692656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f95840c2a3d2200800000000000000
+      internalID: 156845522756673306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bd4806587f66810800000000000000
+      internalID: 1758364856756788100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_191
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9fa6214a3d370e0800000000000000
+      internalID: -2273240685254870537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f330e97f669af10800000000000000
+      internalID: 2281467899933835062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae206448b7c61b0800000000000000
+      internalID: -5662014823471060440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_194
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e6912d6a881df50800000000000000
+      internalID: 6904449953806511758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1420e693d391f60800000000000000
+      internalID: 8005497129495839178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2166359a1a3a58c0800000000000000
+      internalID: -4009828632373075665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_197
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d71ad95507d290800000000000000
+      internalID: -7865812340710059361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e150cd984916ee0800000000000000
+      internalID: -1269570300119015880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_199
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a0bf8151775c370800000000000000
+      internalID: 8342204817270835754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_200
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936adee54277e7970800000000000000
+      internalID: 8754565723749983801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_201
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdd6aac1923f4d90800000000000000
+      internalID: -7111409684843143695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_202
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8460258f3026f00800000000000000
+      internalID: 1108452823349479600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_203
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13356dd7528290a0800000000000000
+      internalID: -6876290367153163489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_204
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d6d8e82da0c9d0800000000000000
+      internalID: -2756012580734054181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b55c9f3cc23f90800000000000000
+      internalID: -6975288299265607595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d340c6e00bfd6240800000000000000
+      internalID: 4786757960254637016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_207
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca6d77c0350b1480800000000000000
+      internalID: -8927536129268421952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_208
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fd0730edd109550800000000000000
+      internalID: 6165460729247883039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_209
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d86f5b8e9bdc1a00800000000000000
+      internalID: 728698713716779221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670874c2f5428ec70800000000000000
+      internalID: 9000483846483312758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c70667a882c7a10800000000000000
+      internalID: 1908444917254880407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_212
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb7cbc220b6e5a20800000000000000
+      internalID: 3052995254488431596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_213
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e2eadd547ed2f0800000000000000
+      internalID: -946190925248140844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf76487eb6590660800000000000000
+      internalID: 7352503242720706501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_215
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ac336f4e646d40800000000000000
+      internalID: 5576703525837906762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_216
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ac1dc8c0a74ea0800000000000000
+      internalID: -5888561203468524950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_217
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc91872f5c7db530800000000000000
+      internalID: 3872388002735037659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_218
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553c2618422dbe9d0800000000000000
+      internalID: -2743868493720796331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_219
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c99d4ac532b4460800000000000000
+      internalID: 7226908907855780928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_220
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a4bbff085d03bc0800000000000000
+      internalID: -3805306935105074610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f203fe621afc260800000000000000
+      internalID: 7120086724489785112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_222
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab744f3e8b2948aa0800000000000000
+      internalID: -6159637067539920966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_223
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56d11ae1d2972420800000000000000
+      internalID: 2605212339729978970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_224
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad54e79433c44280800000000000000
+      internalID: -9059901919708553817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_225
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f96d7a778fec7d0800000000000000
+      internalID: -2896104317551993083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_226
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50671552b3be39220800000000000000
+      internalID: 2491593658127709701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99bc1c9a7c31bd0800000000000000
+      internalID: -2660563422931084870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_228
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a6c0c09620a440800000000000000
+      internalID: 4944994794004193522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_229
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8442b308dafc1620800000000000000
+      internalID: 2746345678471054476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_230
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f739e9942c1e980800000000000000
+      internalID: -8511308199304659142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_231
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6300d7498d4ac79c0800000000000000
+      internalID: -3928083524862803914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_232
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a8e5c6334c18fe0800000000000000
+      internalID: -1188453101508589022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_233
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96eaf95c6642d570800000000000000
+      internalID: 8489925678726833819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_234
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48707017f9b1f9440800000000000000
+      internalID: 4944701287486130052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_235
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd1c669602354b20800000000000000
+      internalID: 3117953320898797011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_236
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8417266fa3c314710800000000000000
+      internalID: 1675686760297951560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011701edd00f82af0800000000000000
+      internalID: -420822622808280816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_238
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41f0a339c5f98be0800000000000000
+      internalID: -1474377158483709619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_239
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13f9b07ba801dfc0800000000000000
+      internalID: -3471984305302277346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_240
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369a146708021cc80800000000000000
+      internalID: -8304320501782566557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_241
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd6e66ca07554390800000000000000
+      internalID: -7834760272950694478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_242
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee285041a64bfa7c0800000000000000
+      internalID: -4057826371542088978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfdf09e4d400aa0800000000000000
+      internalID: -6196868087426450430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_244
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd9a230c34d91d0800000000000000
+      internalID: -3342440855676264499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_245
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771fee1db3fb99ab0800000000000000
+      internalID: -5000755647572151945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b113ee56fe36e70800000000000000
+      internalID: 9107386092540205944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_247
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b067e8721efc14910800000000000000
+      internalID: 1819964290372630027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_248
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9218cb448a60fae0800000000000000
+      internalID: -1517595957984226660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_249
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1929d22ea8301680800000000000000
+      internalID: -8786460552439715558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_250
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8b50eecd1a8c250800000000000000
+      internalID: 5965195676710451366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_251
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542fca9c50259b7e0800000000000000
+      internalID: -1749276795444858299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelOne_Tilemap_Spritesheet2_252
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98332b32399802460800000000000000
+      internalID: 7214917868099613577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class PlayerProjectile : MonoBehaviour{
 
-      public int damage = 1;
+      public int damage = 10;
       public GameObject hitEffectAnim;
       public float SelfDestructTime = 3.0f;
+      private SpriteRenderer projectileArt;
 
       void Start(){
+        projectileArt = GetComponentInChildren<SpriteRenderer>();
            //StartCoroutine(selfDestruct());
       }
 
@@ -16,9 +18,11 @@ public class PlayerProjectile : MonoBehaviour{
       void OnTriggerEnter2D(Collider2D other){
             if (other.gameObject.layer == LayerMask.NameToLayer("Enemies")) {
                   //gameHandlerObj.playerGetHit(damage);
+                  other.gameObject.GetComponent<EnemyMeleeDamage>().TakeDamage(damage);
             }
-           if (other.gameObject.tag != "Player") {
+           if ((other.gameObject.tag != "Player") && (other.gameObject.layer != LayerMask.NameToLayer("Friendlies"))){
                   GameObject animEffect = Instantiate (hitEffectAnim, transform.position, Quaternion.identity);
+                  projectileArt.enabled = false;
                   StartCoroutine (selfDestruct(animEffect));
                   //Destroy (gameObject);
             }

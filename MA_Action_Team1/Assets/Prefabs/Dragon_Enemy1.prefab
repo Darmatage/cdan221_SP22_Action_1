@@ -179,7 +179,8 @@ GameObject:
   - component: {fileID: 1864928656129165707}
   - component: {fileID: 1864928656129165704}
   - component: {fileID: 1864928656129165705}
-  m_Layer: 0
+  - component: {fileID: -5606946196222087562}
+  m_Layer: 6
   m_Name: Dragon_Enemy1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -267,3 +268,18 @@ MonoBehaviour:
   gameHandler: {fileID: 0}
   attackRange: 10
   isAttacking: 0
+--- !u!114 &-5606946196222087562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1864928656129165718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 721074b3e854b4309bca3ad07ad7cfb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthLoot: {fileID: 7674955408493673939, guid: dde4e157b2f97455a82b21b13d7daa8f, type: 3}
+  maxHealth: 100
+  currentHealth: 0

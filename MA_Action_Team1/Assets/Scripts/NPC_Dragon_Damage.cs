@@ -20,7 +20,7 @@ public class NPC_Dragon_Damage : MonoBehaviour{
     }
 	
 	void Update(){
-		amIFriendly = GetComponent<NPC_Dragon_Main>().isFriendly;
+		amIFriendly = GetComponent<NPC_Dragon_Main>().amIFriendly();
 	}
 
     public void TakeDamage(int damage){
@@ -36,7 +36,7 @@ public class NPC_Dragon_Damage : MonoBehaviour{
 		else if (amIFriendly == false){
 			currentPossessed -= damage;
 			if (currentPossessed <= 0){
-               GetComponent<NPC_Dragon_Main>().isFriendly = true;
+               GetComponent<NPC_Dragon_Main>().setFriendly();
 			   Instantiate (newPowerLoot, transform.position, Quaternion.identity);
             }
 		}

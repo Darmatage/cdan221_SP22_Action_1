@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class NPC_Dragon_Main : MonoBehaviour{
-    public static bool isFriendly = true;
+    public static bool isFriendly = false;
     public NPC_Dragon_Saved NPCfriendly;
     public NPC_Dragon_Enemy NPCenemy;
     public SpriteRenderer NPCcolor;
@@ -20,9 +20,11 @@ public class NPC_Dragon_Main : MonoBehaviour{
         if(isFriendly== true){
             NPCfriendly.enabled = true;
             NPCenemy.enabled = false;
+			gameObject.layer = LayerMask.NameToLayer("Friendlies");;
         }else{
-            NPCenemy.enabled = true;
             NPCfriendly.enabled = false;
+			NPCenemy.enabled = true;
+			gameObject.layer = LayerMask.NameToLayer("Possessed");;
         }
         NPCcolorSwitch();
     }
@@ -36,7 +38,19 @@ public class NPC_Dragon_Main : MonoBehaviour{
         }
     }
 
-//include functionality to change layer from friendly to enemy as needed for plyer attacks
+	//check to see if the static bool for this one NPC is friendly -- does this effect all NPCs?
+	public bool amIFriendly(){
+		if (isFriendly == true){
+			return true;
+		}
+		else {
+			return false;
+		}
+	}
 
+	//set the static bool for this one NPC to friendly -- does this effect all NPCs?
+	public void setFriendly(){
+		isFriendly = true;
+	}
 
 }

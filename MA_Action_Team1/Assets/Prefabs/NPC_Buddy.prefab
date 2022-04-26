@@ -100,7 +100,7 @@ GameObject:
   - component: {fileID: 7656776678418226085}
   m_Layer: 7
   m_Name: NPC_Buddy
-  m_TagString: Untagged
+  m_TagString: enemyShooter
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -179,7 +179,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc0c6f985d8584190aff7121d77778c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isFriendly: 1
   NPCfriendly: {fileID: 4636910806320656774}
   NPCenemy: {fileID: 6626783472215803944}
   NPCcolor: {fileID: 0}
@@ -235,7 +234,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0633800d1fcf4c14e96896fec46fbc04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newPowerLoot: {fileID: 0}
+  newPowerLoot: {fileID: 7674955408493673939, guid: e5f16a3fb2853b64fa9b28aee5b6604e, type: 3}
   maxHealth: 100
   maxPossessed: 100
   amIFriendly: 0

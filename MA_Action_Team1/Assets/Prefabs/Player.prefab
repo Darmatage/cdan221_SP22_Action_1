@@ -157,6 +157,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2920471501122888604}
   - component: {fileID: 2920471501122888605}
+  - component: {fileID: 8449443914067294568}
   m_Layer: 0
   m_Name: player_art
   m_TagString: Untagged
@@ -230,6 +231,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &8449443914067294568
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2920471501122888607}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ac36571ae063a42949ca90f195735573, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &3982246321938827353
 GameObject:
   m_ObjectHideFlags: 0
@@ -239,6 +259,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4659404542928376820}
+  - component: {fileID: 3283058362708248669}
   m_Layer: 0
   m_Name: AttackPoint
   m_TagString: Untagged
@@ -260,3 +281,22 @@ Transform:
   m_Father: {fileID: 2920471500677209397}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &3283058362708248669
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3982246321938827353}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ac36571ae063a42949ca90f195735573, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

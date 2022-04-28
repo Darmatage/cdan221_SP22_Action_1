@@ -13536,6 +13536,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC_Buddy (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2358376223257163056, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 6390353149227117718, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -13661,6 +13665,10 @@ PrefabInstance:
     - target: {fileID: 1238795248582694150, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_Name
       value: NPC_Buddy (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2358376223257163056, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 6390353149227117718, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_RootOrder
@@ -82915,6 +82923,10 @@ PrefabInstance:
     - target: {fileID: 1238795248582694150, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_Name
       value: NPC_Buddy
+      objectReference: {fileID: 0}
+    - target: {fileID: 2358376223257163056, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 6390353149227117718, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_RootOrder

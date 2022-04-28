@@ -8,8 +8,8 @@ public class NPC_Dragon_Saved : MonoBehaviour
     public GameObject player;
     private Vector2 playerPos;
     private float distToPlayer;
-    public float followDistance = 5f;
-    public float walkSpeed = 4f;
+    public float followDistance = 5f;    //Follow Player when further than this distance
+    public float walkSpeed = 2f;
     public Vector2 offsetFollow;
     public bool followPlayer = true;
     public bool attackEnemy = false;

@@ -8,8 +8,8 @@ public class NPC_Dragon_Damage : MonoBehaviour{
     public GameObject newPowerLoot;
     public int maxHealth = 100;
 	public int maxPossessed = 100;
-    public static int currentHealth;
-    public static int currentPossessed;
+    public int currentHealth;
+    public int currentPossessed;
 	public bool amIFriendly;
 
     void Start(){

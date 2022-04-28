@@ -15,9 +15,10 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 	private Transform player;
 	private Vector2 PlayerVect;
 
-	public int EnemyLives = 30;
+	//public int EnemyLives = 30;
+	public int damage = 5;
 	private Renderer rend;
-	//private GameHandler gameHandler;
+	private GameHandler gameHandler;
 
 	public float attackRange = 10;
 	public bool isAttacking = false;
@@ -36,9 +37,9 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 		rend = GetComponentInChildren<Renderer> ();
 		//anim = GetComponentInChildren<Animator> ();
 
-		//if (GameObject.FindWithTag ("GameHandler") != null) {
-		// gameHander = GameObject.FindWithTag ("GameHandler").GetComponent<GameHandler> ();
-		//}
+		if (GameObject.FindWithTag ("GameHandler") != null) {
+		 gameHandler = GameObject.FindWithTag ("GameHandler").GetComponent<GameHandler> ();
+		}
 	}
 
 	void Update () {
@@ -68,7 +69,7 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 				}
 			}
 
-			//flip enemy to face player direction. Wrogn direction? Swap the * -1.
+			//flip enemy to face player direction. Wrong direction? Swap the * -1.
 			if (player.position.x > gameObject.transform.position.x){
 				gameObject.transform.localScale = new Vector2(scaleX, gameObject.transform.localScale.y);
 			} else {
@@ -88,14 +89,15 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 		}
 	}
 
-	void OnCollisionEnter2D(Collision2D collision){
+	void OnCollisionEnter2D(Collision2D other){
 		//if (collision.gameObject.tag == "bullet") {
 		// EnemyLives -= 1;
 		// StopCoroutine("HitEnemy");
 		// StartCoroutine("HitEnemy");
 		//}
-		if (collision.gameObject.tag == "Player") {
-			EnemyLives -= 2;
+		if (other.gameObject.tag == "Player") {
+			gameHandler.playerGetHit(damage);
+			//	EnemyLives -= 2;
 			StopCoroutine("HitEnemy");
 			StartCoroutine("HitEnemy");
 		}
@@ -104,11 +106,11 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 	IEnumerator HitEnemy(){
 		// color values are R, G, B, and alpha, each divided by 100
 		rend.material.color = new Color(2.4f, 0.9f, 0.9f, 0.5f);
-		if (EnemyLives < 1){
+		//if (EnemyLives < 1){
 			//gameControllerObj.AddScore (5);
-			Destroy(gameObject);
-		}
-			else yield return new WaitForSeconds(0.5f);
+		//	Destroy(gameObject);
+		//}
+			yield return new WaitForSeconds(0.5f);
 			rend.material.color = Color.white;
 	}
 

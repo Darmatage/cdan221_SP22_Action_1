@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class NPC_Dragon_Main : MonoBehaviour{
-    public static bool isFriendly = false;
+    public bool isFriendly = false;
     public NPC_Dragon_Saved NPCfriendly;
     public NPC_Dragon_Enemy NPCenemy;
     public SpriteRenderer NPCcolor;

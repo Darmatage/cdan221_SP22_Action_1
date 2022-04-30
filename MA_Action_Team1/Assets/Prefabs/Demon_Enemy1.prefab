@@ -181,7 +181,7 @@ GameObject:
   - component: {fileID: 1864928656129165705}
   - component: {fileID: -5606946196222087562}
   m_Layer: 6
-  m_Name: Dragon_Enemy1
+  m_Name: Demon_Enemy1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

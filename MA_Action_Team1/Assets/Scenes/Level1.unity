@@ -13534,7 +13534,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1238795248582694150, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_Name
-      value: NPC_Buddy (1)
+      value: NPC_Buddy_Ice
       objectReference: {fileID: 0}
     - target: {fileID: 2358376223257163056, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_SortingOrder
@@ -13584,6 +13584,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7656776678418226085, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
+      propertyPath: newPowerLoot
+      value: 
+      objectReference: {fileID: 7674955408493673939, guid: 589cac1406165a141b40797961e71669, type: 3}
     - target: {fileID: 8110132988171446240, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_GravityScale
       value: 0
@@ -13664,7 +13668,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1238795248582694150, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_Name
-      value: NPC_Buddy (2)
+      value: NPC_Buddy_Lightning
       objectReference: {fileID: 0}
     - target: {fileID: 2358376223257163056, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_SortingOrder
@@ -13714,6 +13718,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7656776678418226085, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
+      propertyPath: newPowerLoot
+      value: 
+      objectReference: {fileID: 7674955408493673939, guid: 594ae9a029723d74ebfa784d5c7961cc, type: 3}
     - target: {fileID: 8110132988171446240, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_GravityScale
       value: 0
@@ -82922,7 +82930,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1238795248582694150, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_Name
-      value: NPC_Buddy
+      value: NPC_Buddy_Fire
       objectReference: {fileID: 0}
     - target: {fileID: 2358376223257163056, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_SortingOrder
@@ -82972,6 +82980,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7656776678418226085, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
+      propertyPath: newPowerLoot
+      value: 
+      objectReference: {fileID: 7674955408493673939, guid: 07d48c71a4016d5409a4629746036866, type: 3}
     - target: {fileID: 8110132988171446240, guid: 8169fcb4f13a146349851398dbac136b, type: 3}
       propertyPath: m_GravityScale
       value: 0

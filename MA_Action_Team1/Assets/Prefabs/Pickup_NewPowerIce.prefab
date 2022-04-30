@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1458209957886419619}
   - component: {fileID: 6501097494733800844}
   m_Layer: 0
-  m_Name: Pickup_Art
+  m_Name: Pickup_health_Art
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24,13 +24,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2413113253565464633}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0.38268343, w: 0.92387956}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 4, y: 4, z: 4}
   m_Children: []
   m_Father: {fileID: 8304101359486005659}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 45}
 --- !u!212 &6501097494733800844
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -72,8 +72,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 90
-  m_Sprite: {fileID: 21300000, guid: 1da30c61291564a28b7b6bf278d1862c, type: 3}
-  m_Color: {r: 1, g: 0.748226, b: 0.18396229, a: 1}
+  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Color: {r: 0.5199359, g: 0.82763916, b: 0.8679245, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 1447944431279281784}
   - component: {fileID: 4741037548283787423}
   m_Layer: 0
-  m_Name: Pickup_newPower
+  m_Name: Pickup_NewPowerIce
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -150,17 +150,19 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7674955408493673939}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e5a135f218a8c41cb9f65bc162539487, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   gameHandler: {fileID: 0}
-  isHealthPickUp: 1
-  isSpeedBoostPickUp: 0
+  isHealthPickUp: 0
+  isDiamond: 0
+  isDiamondDoorOpen: 0
+  isPowerFire: 0
+  isPowerLightning: 0
+  isPowerIce: 1
   healthBoost: 10
-  speedBoost: 2
-  speedTime: 2
 --- !u!114 &4741037548283787423
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,3 +1,4 @@
+
 using System.Collections.Generic;
 using System.Collections;
 using UnityEngine;
@@ -13,8 +14,16 @@ public class GameHandler : MonoBehaviour
     public int StartPlayerHealth = 100;
     public GameObject healthText;
 
-    public static int gotTokens = 0;
-    public GameObject tokensText;
+    public static int gotDiamonds = 0;
+    public GameObject diamondsText;
+
+	public static bool hasFirePower = false;
+	public static bool hasIcePower = false; 
+	public static bool hasLightningPower = false;
+
+	public GameObject FirePowerIcon;
+	public GameObject IcePowerIcon;
+	public GameObject LightningPowerIcon;
 
     public bool isDefending = false;
 
@@ -40,21 +49,24 @@ public class GameHandler : MonoBehaviour
         }
     }
 
-    void Start()
-    {
+    void Start(){
+		FirePowerIcon.SetActive(false);
+		IcePowerIcon.SetActive(false);
+		LightningPowerIcon.SetActive(false);
+		
         player = GameObject.FindWithTag("Player");
         sceneName = SceneManager.GetActiveScene().name;
-        //if (sceneName=="MainMenu"){ //uncomment these two lines when the MainMenu exists
-        playerHealth = StartPlayerHealth;
-        //}
         updateStatsDisplay();
         pauseMenuUI.SetActive(false);
         GameisPaused = false;
+		
+		//if (sceneName=="MainMenu"){ //uncomment these two lines when the MainMenu exists
+        playerHealth = StartPlayerHealth;
+        //}
     }
 
 
-    void Update()
-    {
+    void Update(){
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             if (GameisPaused)
@@ -88,9 +100,9 @@ public class GameHandler : MonoBehaviour
         volumeLevel = sliderValue;
     }
 
-    public void playerGetTokens(int newTokens)
+    public void playerGetDiamonds(int newDiamonds)
     {
-        gotTokens += newTokens;
+        gotDiamonds += newDiamonds;
         updateStatsDisplay();
     }
 
@@ -118,13 +130,37 @@ public class GameHandler : MonoBehaviour
         }
     }
 
+
+	public void GetNewPower(string newPower){
+		if (newPower == "fire"){
+			hasFirePower = true;
+		}
+		else if (newPower == "ice"){
+			hasIcePower = true;
+		}
+		else if (newPower == "lightning"){
+			hasLightningPower = true;
+		}
+		updateStatsDisplay();
+	}
+
     public void updateStatsDisplay()
     {
         Text healthTextTemp = healthText.GetComponent<Text>();
         healthTextTemp.text = "HEALTH: " + playerHealth;
 
-        Text tokensTextTemp = tokensText.GetComponent<Text>();
-        tokensTextTemp.text = "GOLD: " + gotTokens;
+        Text diamondsTextTemp = diamondsText.GetComponent<Text>();
+        diamondsTextTemp.text = "DIAMONDS: " + gotDiamonds;
+		
+		if (hasFirePower == true){FirePowerIcon.SetActive(true);} 
+		else {FirePowerIcon.SetActive(false);}
+
+		if (hasIcePower == true){IcePowerIcon.SetActive(true);} 
+		else {IcePowerIcon.SetActive(false);}
+
+		if (hasLightningPower == true){LightningPowerIcon.SetActive(true);} 
+		else {LightningPowerIcon.SetActive(false);}
+		
     }
 
     public void playerDies()

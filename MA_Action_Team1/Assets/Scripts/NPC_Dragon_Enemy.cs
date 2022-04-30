@@ -95,7 +95,8 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 		// StopCoroutine("HitEnemy");
 		// StartCoroutine("HitEnemy");
 		//}
-		if (other.gameObject.tag == "Player") {
+		bool amIBuddy = GetComponent<NPC_Dragon_Main>().isFriendly;
+		if ((other.gameObject.tag == "Player")&&(amIBuddy == false)) {
 			gameHandler.playerGetHit(damage);
 			//	EnemyLives -= 2;
 			StopCoroutine("HitEnemy");

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class NPC_Dragon_Enemy : MonoBehaviour{
-	//public Animator anim;
+	public Animator anim;
 	public float speed = 2f;
 	public float stoppingDistance = 4f; // when enemy stops moving towards player
 	public float retreatDistance = 3f; // when enemy moves away from approaching player
@@ -35,7 +35,7 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 		timeBtwShots = startTimeBtwShots;
 
 		rend = GetComponentInChildren<Renderer> ();
-		//anim = GetComponentInChildren<Animator> ();
+		anim = GetComponentInChildren<Animator> ();
 
 		if (GameObject.FindWithTag ("GameHandler") != null) {
 		 gameHandler = GameObject.FindWithTag ("GameHandler").GetComponent<GameHandler> ();
@@ -49,7 +49,7 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 			if (Vector2.Distance (transform.position, player.position) > stoppingDistance) {
 				transform.position = Vector2.MoveTowards (transform.position, player.position, speed * Time.deltaTime);
 				if (isAttacking == false) {
-					//anim.SetBool("Walk", true);
+					anim.SetBool("Walk", true);
 				}
 				//Vector2 lookDir = PlayerVect - rb.position;
 				//float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg -90f;
@@ -58,14 +58,14 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 			// stop moving
 			else if (Vector2.Distance (transform.position, player.position) < stoppingDistance && Vector2.Distance (transform.position, player.position) > retreatDistance) {
 				transform.position = this.transform.position;
-				//anim.SetBool("Walk", false);
+				anim.SetBool("Walk", false);
 			}
 
 			// retreat from player
 			else if (Vector2.Distance (transform.position, player.position) < retreatDistance) {
 				transform.position = Vector2.MoveTowards (transform.position, player.position, -speed * Time.deltaTime);
 				if (isAttacking == false) {
-					//anim.SetBool("Walk", true);
+					anim.SetBool("Walk", true);
 				}
 			}
 
@@ -78,13 +78,12 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 			
 			if (timeBtwShots <= 0) {
 				isAttacking = true;
-				//anim.SetBool("Attack", true);
+				anim.SetTrigger("Attack");
 				Instantiate (projectile, transform.position, Quaternion.identity);
 				timeBtwShots = startTimeBtwShots;
 			} else {
 				timeBtwShots -= Time.deltaTime;
 				isAttacking = false;
-				//anim.SetBool("Attack", true);
 			}
 		}
 	}

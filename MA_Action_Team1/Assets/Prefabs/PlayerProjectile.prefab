@@ -95,7 +95,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 10
   hitEffectAnim: {fileID: 7100895898089095630, guid: 6713e6cbaf3c0488f8d744e300424ac9, type: 3}
-  SelfDestructTime: 2
+  fizzleAnim: {fileID: 3300430848619567915, guid: cb219ca199dfd954599791e0a0838d3f, type: 3}
+  destroyTime: 0.8
+  SelfDestructTime: 0.8
 --- !u!1 &8026588966587599730
 GameObject:
   m_ObjectHideFlags: 0

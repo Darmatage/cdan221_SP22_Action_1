@@ -1,0 +1,6264 @@
+fileFormatVersion: 2
+guid: f3544c92d39df4a00a028ccbdd48b2b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3260872629963632103
+    second: LevelTwo_Tilemap_Spritesheet_Ground_0
+  - first:
+      213: -2398005257524823110
+    second: LevelTwo_Tilemap_Spritesheet_Ground_1
+  - first:
+      213: -6649637463340006277
+    second: LevelTwo_Tilemap_Spritesheet_Ground_2
+  - first:
+      213: 1410642901949481162
+    second: LevelTwo_Tilemap_Spritesheet_Ground_3
+  - first:
+      213: 2628666673452481340
+    second: LevelTwo_Tilemap_Spritesheet_Ground_4
+  - first:
+      213: 6181937996280918226
+    second: LevelTwo_Tilemap_Spritesheet_Ground_5
+  - first:
+      213: 4428403229863026141
+    second: LevelTwo_Tilemap_Spritesheet_Ground_6
+  - first:
+      213: 3887670436265567719
+    second: LevelTwo_Tilemap_Spritesheet_Ground_7
+  - first:
+      213: 4753195207589212475
+    second: LevelTwo_Tilemap_Spritesheet_Ground_8
+  - first:
+      213: -7187481264421385502
+    second: LevelTwo_Tilemap_Spritesheet_Ground_9
+  - first:
+      213: 6746446359210473483
+    second: LevelTwo_Tilemap_Spritesheet_Ground_10
+  - first:
+      213: -661877892339182576
+    second: LevelTwo_Tilemap_Spritesheet_Ground_11
+  - first:
+      213: 505937614845096706
+    second: LevelTwo_Tilemap_Spritesheet_Ground_12
+  - first:
+      213: 5102293784894455567
+    second: LevelTwo_Tilemap_Spritesheet_Ground_13
+  - first:
+      213: -5196862263461515218
+    second: LevelTwo_Tilemap_Spritesheet_Ground_14
+  - first:
+      213: -5868145096924482949
+    second: LevelTwo_Tilemap_Spritesheet_Ground_15
+  - first:
+      213: 5949117167436905026
+    second: LevelTwo_Tilemap_Spritesheet_Ground_16
+  - first:
+      213: 3875622274403937574
+    second: LevelTwo_Tilemap_Spritesheet_Ground_17
+  - first:
+      213: -6722043696071146193
+    second: LevelTwo_Tilemap_Spritesheet_Ground_18
+  - first:
+      213: 6681790459586847018
+    second: LevelTwo_Tilemap_Spritesheet_Ground_19
+  - first:
+      213: -6331329458881307466
+    second: LevelTwo_Tilemap_Spritesheet_Ground_20
+  - first:
+      213: -8619545299139988952
+    second: LevelTwo_Tilemap_Spritesheet_Ground_21
+  - first:
+      213: 1845146425748847097
+    second: LevelTwo_Tilemap_Spritesheet_Ground_22
+  - first:
+      213: 4301252052600274640
+    second: LevelTwo_Tilemap_Spritesheet_Ground_23
+  - first:
+      213: 4410630499354967699
+    second: LevelTwo_Tilemap_Spritesheet_Ground_24
+  - first:
+      213: -8996451053342902350
+    second: LevelTwo_Tilemap_Spritesheet_Ground_25
+  - first:
+      213: -3247445963768065190
+    second: LevelTwo_Tilemap_Spritesheet_Ground_26
+  - first:
+      213: 469826727852879427
+    second: LevelTwo_Tilemap_Spritesheet_Ground_27
+  - first:
+      213: 1103137815510956077
+    second: LevelTwo_Tilemap_Spritesheet_Ground_28
+  - first:
+      213: -508199862265992424
+    second: LevelTwo_Tilemap_Spritesheet_Ground_29
+  - first:
+      213: -4003586900869116707
+    second: LevelTwo_Tilemap_Spritesheet_Ground_30
+  - first:
+      213: 2448459129770832514
+    second: LevelTwo_Tilemap_Spritesheet_Ground_31
+  - first:
+      213: 8651784535599774180
+    second: LevelTwo_Tilemap_Spritesheet_Ground_32
+  - first:
+      213: -7000462799909111790
+    second: LevelTwo_Tilemap_Spritesheet_Ground_33
+  - first:
+      213: 8172309685659818831
+    second: LevelTwo_Tilemap_Spritesheet_Ground_34
+  - first:
+      213: -9040226180303430441
+    second: LevelTwo_Tilemap_Spritesheet_Ground_35
+  - first:
+      213: -1617536948590048883
+    second: LevelTwo_Tilemap_Spritesheet_Ground_36
+  - first:
+      213: 9223170094884878230
+    second: LevelTwo_Tilemap_Spritesheet_Ground_37
+  - first:
+      213: -2267594514298779203
+    second: LevelTwo_Tilemap_Spritesheet_Ground_38
+  - first:
+      213: -4725207275060108042
+    second: LevelTwo_Tilemap_Spritesheet_Ground_39
+  - first:
+      213: 5797032663274746718
+    second: LevelTwo_Tilemap_Spritesheet_Ground_40
+  - first:
+      213: 3183146989722072358
+    second: LevelTwo_Tilemap_Spritesheet_Ground_41
+  - first:
+      213: -8404881545795224385
+    second: LevelTwo_Tilemap_Spritesheet_Ground_42
+  - first:
+      213: -2495588164931744068
+    second: LevelTwo_Tilemap_Spritesheet_Ground_43
+  - first:
+      213: 8448755296189193143
+    second: LevelTwo_Tilemap_Spritesheet_Ground_44
+  - first:
+      213: -8533673935813131579
+    second: LevelTwo_Tilemap_Spritesheet_Ground_45
+  - first:
+      213: 2515951406134976378
+    second: LevelTwo_Tilemap_Spritesheet_Ground_46
+  - first:
+      213: -9054236139085362882
+    second: LevelTwo_Tilemap_Spritesheet_Ground_47
+  - first:
+      213: 7919782700096335465
+    second: LevelTwo_Tilemap_Spritesheet_Ground_48
+  - first:
+      213: -4461270089131945188
+    second: LevelTwo_Tilemap_Spritesheet_Ground_49
+  - first:
+      213: -8550123970278327206
+    second: LevelTwo_Tilemap_Spritesheet_Ground_50
+  - first:
+      213: -2913504598169831062
+    second: LevelTwo_Tilemap_Spritesheet_Ground_51
+  - first:
+      213: -8262356037086598713
+    second: LevelTwo_Tilemap_Spritesheet_Ground_52
+  - first:
+      213: 4584935281591569776
+    second: LevelTwo_Tilemap_Spritesheet_Ground_53
+  - first:
+      213: 870836508092737093
+    second: LevelTwo_Tilemap_Spritesheet_Ground_54
+  - first:
+      213: 7667908360324040647
+    second: LevelTwo_Tilemap_Spritesheet_Ground_55
+  - first:
+      213: 1913265506464351402
+    second: LevelTwo_Tilemap_Spritesheet_Ground_56
+  - first:
+      213: -876370850676056026
+    second: LevelTwo_Tilemap_Spritesheet_Ground_57
+  - first:
+      213: 2492418406144903908
+    second: LevelTwo_Tilemap_Spritesheet_Ground_58
+  - first:
+      213: 6417058891531294847
+    second: LevelTwo_Tilemap_Spritesheet_Ground_59
+  - first:
+      213: 2603301274434851788
+    second: LevelTwo_Tilemap_Spritesheet_Ground_60
+  - first:
+      213: -1413312279843141435
+    second: LevelTwo_Tilemap_Spritesheet_Ground_61
+  - first:
+      213: -4039063067224823400
+    second: LevelTwo_Tilemap_Spritesheet_Ground_62
+  - first:
+      213: -4005292829156727681
+    second: LevelTwo_Tilemap_Spritesheet_Ground_63
+  - first:
+      213: -5019070343659471859
+    second: LevelTwo_Tilemap_Spritesheet_Ground_64
+  - first:
+      213: -1154165903943292439
+    second: LevelTwo_Tilemap_Spritesheet_Ground_65
+  - first:
+      213: -2883018941075282966
+    second: LevelTwo_Tilemap_Spritesheet_Ground_66
+  - first:
+      213: -2218825896820789670
+    second: LevelTwo_Tilemap_Spritesheet_Ground_67
+  - first:
+      213: 2181527668856656420
+    second: LevelTwo_Tilemap_Spritesheet_Ground_68
+  - first:
+      213: 3079719479698779250
+    second: LevelTwo_Tilemap_Spritesheet_Ground_69
+  - first:
+      213: -8529395864247173513
+    second: LevelTwo_Tilemap_Spritesheet_Ground_70
+  - first:
+      213: 5729768337092951189
+    second: LevelTwo_Tilemap_Spritesheet_Ground_71
+  - first:
+      213: 8414237793930347831
+    second: LevelTwo_Tilemap_Spritesheet_Ground_72
+  - first:
+      213: 5913434512314851618
+    second: LevelTwo_Tilemap_Spritesheet_Ground_73
+  - first:
+      213: 4827611344744435239
+    second: LevelTwo_Tilemap_Spritesheet_Ground_74
+  - first:
+      213: 3886027957826035829
+    second: LevelTwo_Tilemap_Spritesheet_Ground_75
+  - first:
+      213: 1388114398249239170
+    second: LevelTwo_Tilemap_Spritesheet_Ground_76
+  - first:
+      213: 4488370244422713368
+    second: LevelTwo_Tilemap_Spritesheet_Ground_77
+  - first:
+      213: 1473675706668346406
+    second: LevelTwo_Tilemap_Spritesheet_Ground_78
+  - first:
+      213: 3746616833516318285
+    second: LevelTwo_Tilemap_Spritesheet_Ground_79
+  - first:
+      213: -2163271751655776501
+    second: LevelTwo_Tilemap_Spritesheet_Ground_80
+  - first:
+      213: 6749771478790179809
+    second: LevelTwo_Tilemap_Spritesheet_Ground_81
+  - first:
+      213: -2212444235560407219
+    second: LevelTwo_Tilemap_Spritesheet_Ground_82
+  - first:
+      213: -5866734632710356808
+    second: LevelTwo_Tilemap_Spritesheet_Ground_83
+  - first:
+      213: 7709862426459947805
+    second: LevelTwo_Tilemap_Spritesheet_Ground_84
+  - first:
+      213: 8027580752751717888
+    second: LevelTwo_Tilemap_Spritesheet_Ground_85
+  - first:
+      213: -1772304341801344720
+    second: LevelTwo_Tilemap_Spritesheet_Ground_86
+  - first:
+      213: 5697904503708614192
+    second: LevelTwo_Tilemap_Spritesheet_Ground_87
+  - first:
+      213: -7377025930230872337
+    second: LevelTwo_Tilemap_Spritesheet_Ground_88
+  - first:
+      213: 695300600787086986
+    second: LevelTwo_Tilemap_Spritesheet_Ground_89
+  - first:
+      213: 1512438426817360454
+    second: LevelTwo_Tilemap_Spritesheet_Ground_90
+  - first:
+      213: 2317344605262427387
+    second: LevelTwo_Tilemap_Spritesheet_Ground_91
+  - first:
+      213: -5476822505605008267
+    second: LevelTwo_Tilemap_Spritesheet_Ground_92
+  - first:
+      213: -7046870047947466829
+    second: LevelTwo_Tilemap_Spritesheet_Ground_93
+  - first:
+      213: -6177796684492420014
+    second: LevelTwo_Tilemap_Spritesheet_Ground_94
+  - first:
+      213: 8177495835143867878
+    second: LevelTwo_Tilemap_Spritesheet_Ground_95
+  - first:
+      213: -7275094523721575931
+    second: LevelTwo_Tilemap_Spritesheet_Ground_96
+  - first:
+      213: -1804330204369981194
+    second: LevelTwo_Tilemap_Spritesheet_Ground_97
+  - first:
+      213: 1409009875967136538
+    second: LevelTwo_Tilemap_Spritesheet_Ground_98
+  - first:
+      213: -5711886914678478949
+    second: LevelTwo_Tilemap_Spritesheet_Ground_99
+  - first:
+      213: -2933902517489952574
+    second: LevelTwo_Tilemap_Spritesheet_Ground_100
+  - first:
+      213: 5839311119959322529
+    second: LevelTwo_Tilemap_Spritesheet_Ground_101
+  - first:
+      213: -7118167908385486338
+    second: LevelTwo_Tilemap_Spritesheet_Ground_102
+  - first:
+      213: 2816225202043292527
+    second: LevelTwo_Tilemap_Spritesheet_Ground_103
+  - first:
+      213: 612932781320998180
+    second: LevelTwo_Tilemap_Spritesheet_Ground_104
+  - first:
+      213: -9177209071354115788
+    second: LevelTwo_Tilemap_Spritesheet_Ground_105
+  - first:
+      213: 2734455618964131803
+    second: LevelTwo_Tilemap_Spritesheet_Ground_106
+  - first:
+      213: 6403411656067890768
+    second: LevelTwo_Tilemap_Spritesheet_Ground_107
+  - first:
+      213: -2118487714275869948
+    second: LevelTwo_Tilemap_Spritesheet_Ground_108
+  - first:
+      213: 1662454754241373847
+    second: LevelTwo_Tilemap_Spritesheet_Ground_109
+  - first:
+      213: -7452248051552283493
+    second: LevelTwo_Tilemap_Spritesheet_Ground_110
+  - first:
+      213: 6801000787330904017
+    second: LevelTwo_Tilemap_Spritesheet_Ground_111
+  - first:
+      213: -204180885832238400
+    second: LevelTwo_Tilemap_Spritesheet_Ground_112
+  - first:
+      213: -226980067931832743
+    second: LevelTwo_Tilemap_Spritesheet_Ground_113
+  - first:
+      213: -3410784868900180759
+    second: LevelTwo_Tilemap_Spritesheet_Ground_114
+  - first:
+      213: -2826074431537570130
+    second: LevelTwo_Tilemap_Spritesheet_Ground_115
+  - first:
+      213: 7132165539971011387
+    second: LevelTwo_Tilemap_Spritesheet_Ground_116
+  - first:
+      213: -6640571290887537543
+    second: LevelTwo_Tilemap_Spritesheet_Ground_117
+  - first:
+      213: -1540038842704469819
+    second: LevelTwo_Tilemap_Spritesheet_Ground_118
+  - first:
+      213: -869807777319154711
+    second: LevelTwo_Tilemap_Spritesheet_Ground_119
+  - first:
+      213: -504755818568959942
+    second: LevelTwo_Tilemap_Spritesheet_Ground_120
+  - first:
+      213: 5096649568295904157
+    second: LevelTwo_Tilemap_Spritesheet_Ground_121
+  - first:
+      213: 2424530864788135941
+    second: LevelTwo_Tilemap_Spritesheet_Ground_122
+  - first:
+      213: -1117157529488651508
+    second: LevelTwo_Tilemap_Spritesheet_Ground_123
+  - first:
+      213: -6317242989125374050
+    second: LevelTwo_Tilemap_Spritesheet_Ground_124
+  - first:
+      213: 5920093017165302783
+    second: LevelTwo_Tilemap_Spritesheet_Ground_125
+  - first:
+      213: 7527768523065519261
+    second: LevelTwo_Tilemap_Spritesheet_Ground_126
+  - first:
+      213: -2921472783664280093
+    second: LevelTwo_Tilemap_Spritesheet_Ground_127
+  - first:
+      213: -8875601424039575265
+    second: LevelTwo_Tilemap_Spritesheet_Ground_128
+  - first:
+      213: 7811638935317787535
+    second: LevelTwo_Tilemap_Spritesheet_Ground_129
+  - first:
+      213: 2621918490641492703
+    second: LevelTwo_Tilemap_Spritesheet_Ground_130
+  - first:
+      213: 918306067624073903
+    second: LevelTwo_Tilemap_Spritesheet_Ground_131
+  - first:
+      213: 2649394134184279271
+    second: LevelTwo_Tilemap_Spritesheet_Ground_132
+  - first:
+      213: -5742347525867187606
+    second: LevelTwo_Tilemap_Spritesheet_Ground_133
+  - first:
+      213: -7106401526055696956
+    second: LevelTwo_Tilemap_Spritesheet_Ground_134
+  - first:
+      213: -7625486074224053163
+    second: LevelTwo_Tilemap_Spritesheet_Ground_135
+  - first:
+      213: 3723600888971584553
+    second: LevelTwo_Tilemap_Spritesheet_Ground_136
+  - first:
+      213: 4185571338452374673
+    second: LevelTwo_Tilemap_Spritesheet_Ground_137
+  - first:
+      213: 7001923627992931180
+    second: LevelTwo_Tilemap_Spritesheet_Ground_138
+  - first:
+      213: 8381112775672039426
+    second: LevelTwo_Tilemap_Spritesheet_Ground_139
+  - first:
+      213: -1289009355080672180
+    second: LevelTwo_Tilemap_Spritesheet_Ground_140
+  - first:
+      213: -8703667443245674843
+    second: LevelTwo_Tilemap_Spritesheet_Ground_141
+  - first:
+      213: 1283315136878792523
+    second: LevelTwo_Tilemap_Spritesheet_Ground_142
+  - first:
+      213: -272705799440367805
+    second: LevelTwo_Tilemap_Spritesheet_Ground_143
+  - first:
+      213: 8475188120748703629
+    second: LevelTwo_Tilemap_Spritesheet_Ground_144
+  - first:
+      213: -8066241635079328849
+    second: LevelTwo_Tilemap_Spritesheet_Ground_145
+  - first:
+      213: 7372773113017234280
+    second: LevelTwo_Tilemap_Spritesheet_Ground_146
+  - first:
+      213: -1856216341508675935
+    second: LevelTwo_Tilemap_Spritesheet_Ground_147
+  - first:
+      213: -7935886309636905032
+    second: LevelTwo_Tilemap_Spritesheet_Ground_148
+  - first:
+      213: 7016527549997471950
+    second: LevelTwo_Tilemap_Spritesheet_Ground_149
+  - first:
+      213: -567744785894499341
+    second: LevelTwo_Tilemap_Spritesheet_Ground_150
+  - first:
+      213: 4300787748567379964
+    second: LevelTwo_Tilemap_Spritesheet_Ground_151
+  - first:
+      213: -1268403021284786342
+    second: LevelTwo_Tilemap_Spritesheet_Ground_152
+  - first:
+      213: 1677333328161820166
+    second: LevelTwo_Tilemap_Spritesheet_Ground_153
+  - first:
+      213: 6283425378814500679
+    second: LevelTwo_Tilemap_Spritesheet_Ground_154
+  - first:
+      213: 5858065388263356842
+    second: LevelTwo_Tilemap_Spritesheet_Ground_155
+  - first:
+      213: 4185043193180411665
+    second: LevelTwo_Tilemap_Spritesheet_Ground_156
+  - first:
+      213: -2701471404006920221
+    second: LevelTwo_Tilemap_Spritesheet_Ground_157
+  - first:
+      213: -7971659344202635827
+    second: LevelTwo_Tilemap_Spritesheet_Ground_158
+  - first:
+      213: -5149228284087484550
+    second: LevelTwo_Tilemap_Spritesheet_Ground_159
+  - first:
+      213: 387557927587286034
+    second: LevelTwo_Tilemap_Spritesheet_Ground_160
+  - first:
+      213: -3786061017183433549
+    second: LevelTwo_Tilemap_Spritesheet_Ground_161
+  - first:
+      213: 1973675086359317926
+    second: LevelTwo_Tilemap_Spritesheet_Ground_162
+  - first:
+      213: -5865887518734080899
+    second: LevelTwo_Tilemap_Spritesheet_Ground_163
+  - first:
+      213: -592374774685225174
+    second: LevelTwo_Tilemap_Spritesheet_Ground_164
+  - first:
+      213: -5212045433901250496
+    second: LevelTwo_Tilemap_Spritesheet_Ground_165
+  - first:
+      213: 6580410547783372327
+    second: LevelTwo_Tilemap_Spritesheet_Ground_166
+  - first:
+      213: 1971966261934787002
+    second: LevelTwo_Tilemap_Spritesheet_Ground_167
+  - first:
+      213: 6315233596591016821
+    second: LevelTwo_Tilemap_Spritesheet_Ground_168
+  - first:
+      213: -5297925726609389457
+    second: LevelTwo_Tilemap_Spritesheet_Ground_169
+  - first:
+      213: 709326550573045228
+    second: LevelTwo_Tilemap_Spritesheet_Ground_170
+  - first:
+      213: 4201983251181089165
+    second: LevelTwo_Tilemap_Spritesheet_Ground_171
+  - first:
+      213: 5189389829575893449
+    second: LevelTwo_Tilemap_Spritesheet_Ground_172
+  - first:
+      213: -5837812186492739883
+    second: LevelTwo_Tilemap_Spritesheet_Ground_173
+  - first:
+      213: 3186228077237199747
+    second: LevelTwo_Tilemap_Spritesheet_Ground_174
+  - first:
+      213: 6026142904104775209
+    second: LevelTwo_Tilemap_Spritesheet_Ground_175
+  - first:
+      213: 3370101582696559805
+    second: LevelTwo_Tilemap_Spritesheet_Ground_176
+  - first:
+      213: 3669456247415521100
+    second: LevelTwo_Tilemap_Spritesheet_Ground_177
+  - first:
+      213: -55687168480514853
+    second: LevelTwo_Tilemap_Spritesheet_Ground_178
+  - first:
+      213: -8526204458446019523
+    second: LevelTwo_Tilemap_Spritesheet_Ground_179
+  - first:
+      213: -6487225610275148084
+    second: LevelTwo_Tilemap_Spritesheet_Ground_180
+  - first:
+      213: 1888311313679633050
+    second: LevelTwo_Tilemap_Spritesheet_Ground_181
+  - first:
+      213: -3271667585967130865
+    second: LevelTwo_Tilemap_Spritesheet_Ground_182
+  - first:
+      213: -1851837813151297879
+    second: LevelTwo_Tilemap_Spritesheet_Ground_183
+  - first:
+      213: -505178538680494890
+    second: LevelTwo_Tilemap_Spritesheet_Ground_184
+  - first:
+      213: 6801027245667204610
+    second: LevelTwo_Tilemap_Spritesheet_Ground_185
+  - first:
+      213: -933863362616700778
+    second: LevelTwo_Tilemap_Spritesheet_Ground_186
+  - first:
+      213: -687675127855792568
+    second: LevelTwo_Tilemap_Spritesheet_Ground_187
+  - first:
+      213: 2496174733864088584
+    second: LevelTwo_Tilemap_Spritesheet_Ground_188
+  - first:
+      213: -5458772720882126236
+    second: LevelTwo_Tilemap_Spritesheet_Ground_189
+  - first:
+      213: 759672508919746832
+    second: LevelTwo_Tilemap_Spritesheet_Ground_190
+  - first:
+      213: 4292947536910660910
+    second: LevelTwo_Tilemap_Spritesheet_Ground_191
+  - first:
+      213: 4151886550157213310
+    second: LevelTwo_Tilemap_Spritesheet_Ground_192
+  - first:
+      213: -1060851908720364414
+    second: LevelTwo_Tilemap_Spritesheet_Ground_193
+  - first:
+      213: 8384792107567231295
+    second: LevelTwo_Tilemap_Spritesheet_Ground_194
+  - first:
+      213: 1266579196950186672
+    second: LevelTwo_Tilemap_Spritesheet_Ground_195
+  - first:
+      213: -2309066181796289013
+    second: LevelTwo_Tilemap_Spritesheet_Ground_196
+  - first:
+      213: 3786323467213374762
+    second: LevelTwo_Tilemap_Spritesheet_Ground_197
+  - first:
+      213: 3345264420230824771
+    second: LevelTwo_Tilemap_Spritesheet_Ground_198
+  - first:
+      213: -2556786271813603110
+    second: LevelTwo_Tilemap_Spritesheet_Ground_199
+  - first:
+      213: 7317262794762721010
+    second: LevelTwo_Tilemap_Spritesheet_Ground_200
+  - first:
+      213: 7635088619870852632
+    second: LevelTwo_Tilemap_Spritesheet_Ground_201
+  - first:
+      213: 5738036211589351514
+    second: LevelTwo_Tilemap_Spritesheet_Ground_202
+  - first:
+      213: 7436622386114308496
+    second: LevelTwo_Tilemap_Spritesheet_Ground_203
+  - first:
+      213: -4001517479930756430
+    second: LevelTwo_Tilemap_Spritesheet_Ground_204
+  - first:
+      213: -3487233384303009476
+    second: LevelTwo_Tilemap_Spritesheet_Ground_205
+  - first:
+      213: 6106081966952433461
+    second: LevelTwo_Tilemap_Spritesheet_Ground_206
+  - first:
+      213: 457022076581947796
+    second: LevelTwo_Tilemap_Spritesheet_Ground_207
+  - first:
+      213: -512566622287366604
+    second: LevelTwo_Tilemap_Spritesheet_Ground_208
+  - first:
+      213: -5683618706726139499
+    second: LevelTwo_Tilemap_Spritesheet_Ground_209
+  - first:
+      213: -4215350504073790159
+    second: LevelTwo_Tilemap_Spritesheet_Ground_210
+  - first:
+      213: 3978725614548315998
+    second: LevelTwo_Tilemap_Spritesheet_Ground_211
+  - first:
+      213: -8035989166273749051
+    second: LevelTwo_Tilemap_Spritesheet_Ground_212
+  - first:
+      213: 1521566800834221147
+    second: LevelTwo_Tilemap_Spritesheet_Ground_213
+  - first:
+      213: 5523849733313328913
+    second: LevelTwo_Tilemap_Spritesheet_Ground_214
+  - first:
+      213: 6486097869754335372
+    second: LevelTwo_Tilemap_Spritesheet_Ground_215
+  - first:
+      213: 5572890174849793595
+    second: LevelTwo_Tilemap_Spritesheet_Ground_216
+  - first:
+      213: 5823102037842717855
+    second: LevelTwo_Tilemap_Spritesheet_Ground_217
+  - first:
+      213: -7593962542902373890
+    second: LevelTwo_Tilemap_Spritesheet_Ground_218
+  - first:
+      213: 4671382368434495444
+    second: LevelTwo_Tilemap_Spritesheet_Ground_219
+  - first:
+      213: -2245431608823455964
+    second: LevelTwo_Tilemap_Spritesheet_Ground_220
+  - first:
+      213: 7304699669086248144
+    second: LevelTwo_Tilemap_Spritesheet_Ground_221
+  - first:
+      213: -760663149472129308
+    second: LevelTwo_Tilemap_Spritesheet_Ground_222
+  - first:
+      213: -6713623467277735631
+    second: LevelTwo_Tilemap_Spritesheet_Ground_223
+  - first:
+      213: 4646310399967146100
+    second: LevelTwo_Tilemap_Spritesheet_Ground_224
+  - first:
+      213: -5027194267819887774
+    second: LevelTwo_Tilemap_Spritesheet_Ground_225
+  - first:
+      213: 790469241434332213
+    second: LevelTwo_Tilemap_Spritesheet_Ground_226
+  - first:
+      213: 5499599787333324438
+    second: LevelTwo_Tilemap_Spritesheet_Ground_227
+  - first:
+      213: 8971434365586494445
+    second: LevelTwo_Tilemap_Spritesheet_Ground_228
+  - first:
+      213: 7434118410430653270
+    second: LevelTwo_Tilemap_Spritesheet_Ground_229
+  - first:
+      213: 4966113529592804867
+    second: LevelTwo_Tilemap_Spritesheet_Ground_230
+  - first:
+      213: -6230569054600497237
+    second: LevelTwo_Tilemap_Spritesheet_Ground_231
+  - first:
+      213: -2454572607239568679
+    second: LevelTwo_Tilemap_Spritesheet_Ground_232
+  - first:
+      213: 3136250630150400986
+    second: LevelTwo_Tilemap_Spritesheet_Ground_233
+  - first:
+      213: 5423893922605900752
+    second: LevelTwo_Tilemap_Spritesheet_Ground_234
+  - first:
+      213: 6387176833617010928
+    second: LevelTwo_Tilemap_Spritesheet_Ground_235
+  - first:
+      213: -2969714433562628105
+    second: LevelTwo_Tilemap_Spritesheet_Ground_236
+  - first:
+      213: -7291506344912718425
+    second: LevelTwo_Tilemap_Spritesheet_Ground_237
+  - first:
+      213: -409729654555878833
+    second: LevelTwo_Tilemap_Spritesheet_Ground_238
+  - first:
+      213: -5427075508561270933
+    second: LevelTwo_Tilemap_Spritesheet_Ground_239
+  - first:
+      213: 7761587817153869078
+    second: LevelTwo_Tilemap_Spritesheet_Ground_240
+  - first:
+      213: 1344857036035258568
+    second: LevelTwo_Tilemap_Spritesheet_Ground_241
+  - first:
+      213: -6031612057790105759
+    second: LevelTwo_Tilemap_Spritesheet_Ground_242
+  - first:
+      213: 2150362731755146134
+    second: LevelTwo_Tilemap_Spritesheet_Ground_243
+  - first:
+      213: 3123521066143659312
+    second: LevelTwo_Tilemap_Spritesheet_Ground_244
+  - first:
+      213: 7392107262627880129
+    second: LevelTwo_Tilemap_Spritesheet_Ground_245
+  - first:
+      213: -1026762422568992521
+    second: LevelTwo_Tilemap_Spritesheet_Ground_246
+  - first:
+      213: -1449212764464482139
+    second: LevelTwo_Tilemap_Spritesheet_Ground_247
+  - first:
+      213: 1232510427472655705
+    second: LevelTwo_Tilemap_Spritesheet_Ground_248
+  - first:
+      213: -6620075958336279547
+    second: LevelTwo_Tilemap_Spritesheet_Ground_249
+  - first:
+      213: -7784255939985089364
+    second: LevelTwo_Tilemap_Spritesheet_Ground_250
+  - first:
+      213: 2447572867356602023
+    second: LevelTwo_Tilemap_Spritesheet_Ground_251
+  - first:
+      213: -2110775522045892091
+    second: LevelTwo_Tilemap_Spritesheet_Ground_252
+  - first:
+      213: -6264520052227705131
+    second: LevelTwo_Tilemap_Spritesheet_Ground_253
+  - first:
+      213: 5227161480023700772
+    second: LevelTwo_Tilemap_Spritesheet_Ground_254
+  - first:
+      213: -2328021616164570057
+    second: LevelTwo_Tilemap_Spritesheet_Ground_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9125931be9d0fb2d0800000000000000
+      internalID: -3260872629963632103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbb6b76ce298bed0800000000000000
+      internalID: -2398005257524823110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744d7855fdb7b3a0800000000000000
+      internalID: -6649637463340006277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac000a3de3c939310800000000000000
+      internalID: 1410642901949481162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bfa088966ea7420800000000000000
+      internalID: 2628666673452481340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d070d3bad7aac550800000000000000
+      internalID: 6181937996280918226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd9d2e5649d47d30800000000000000
+      internalID: 4428403229863026141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5a56df9a7c3f530800000000000000
+      internalID: 3887670436265567719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31b1789bddb6f140800000000000000
+      internalID: 4753195207589212475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea4364fedfe04c90800000000000000
+      internalID: -7187481264421385502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08b7f0383130ad50800000000000000
+      internalID: 6746446359210473483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014507e409980d6f0800000000000000
+      internalID: -661877892339182576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203b9538493750700800000000000000
+      internalID: 505937614845096706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f315c0a2dfec640800000000000000
+      internalID: 5102293784894455567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e207eb73e4901e7b0800000000000000
+      internalID: -5196862263461515218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72bd570029209ea0800000000000000
+      internalID: -5868145096924482949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a31444b828f8250800000000000000
+      internalID: 5949117167436905026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d2075bce9f8c530800000000000000
+      internalID: 3875622274403937574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2586039fd086b2a0800000000000000
+      internalID: -6722043696071146193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21a447750d7abc50800000000000000
+      internalID: 6681790459586847018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcd967e6699228a0800000000000000
+      internalID: -6331329458881307466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8227f5ff739316880800000000000000
+      internalID: -8619545299139988952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f97751f5e64b9910800000000000000
+      internalID: 1845146425748847097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb8ace3fd11bb30800000000000000
+      internalID: 4301252052600274640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e7e851215b53d30800000000000000
+      internalID: 4410630499354967699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7be46ae6f262380800000000000000
+      internalID: -8996451053342902350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5314560a11cee2d0800000000000000
+      internalID: -3247445963768065190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea7a37be8258600800000000000000
+      internalID: 469826727852879427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28b4df9ff12f4f00800000000000000
+      internalID: 1103137815510956077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81babb6fae282f8f0800000000000000
+      internalID: -508199862265992424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc0a42fce66078c0800000000000000
+      internalID: -4003586900869116707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2827d052b9caaf120800000000000000
+      internalID: 2448459129770832514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e974ad2230511870800000000000000
+      internalID: 8651784535599774180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218b41c6c2c59de90800000000000000
+      internalID: -7000462799909111790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bdc304c50e96170800000000000000
+      internalID: 8172309685659818831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcd3d9af2aaa8280800000000000000
+      internalID: -9040226180303430441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89883027ba5d89e0800000000000000
+      internalID: -1617536948590048883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6977e98b5584fff70800000000000000
+      internalID: 9223170094884878230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c890bdc2e780e0800000000000000
+      internalID: -2267594514298779203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f463ffb401bc6eb0800000000000000
+      internalID: -4725207275060108042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f3d54e72337050800000000000000
+      internalID: 5797032663274746718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625fc36725fcc2c20800000000000000
+      internalID: 3183146989722072358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcb3abd3ccdb5b80800000000000000
+      internalID: -8404881545795224385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe039349c3ed5dd0800000000000000
+      internalID: -2495588164931744068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9e8fad22004570800000000000000
+      internalID: 8448755296189193143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c249dac4cc429980800000000000000
+      internalID: -8533673935813131579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fd1da49747ae220800000000000000
+      internalID: 2515951406134976378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e390051f334e85280800000000000000
+      internalID: -9054236139085362882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ea689a768b8ed60800000000000000
+      internalID: 7919782700096335465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131732ad726612c0800000000000000
+      internalID: -4461270089131945188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cf10eac8bd75980800000000000000
+      internalID: -8550123970278327206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69be9e11072197d0800000000000000
+      internalID: -2913504598169831062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c926a9c5f6365d80800000000000000
+      internalID: -8262356037086598713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dcb69b856f0af30800000000000000
+      internalID: 4584935281591569776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5462f42b035d51c00800000000000000
+      internalID: 870836508092737093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7cc530702e96a60800000000000000
+      internalID: 7667908360324040647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4c0d957d84d8a10800000000000000
+      internalID: 1913265506464351402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62062f1ca5186d3f0800000000000000
+      internalID: -876370850676056026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea89e1c559d69220800000000000000
+      internalID: 2492418406144903908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f781c741019fd0950800000000000000
+      internalID: 6417058891531294847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d20a57b8c02420800000000000000
+      internalID: 2603301274434851788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8804338f7e26ce0800000000000000
+      internalID: -1413312279843141435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8992aac4a8d52f7c0800000000000000
+      internalID: -4039063067224823400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74a1b094675a68c0800000000000000
+      internalID: -4005292829156727681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cba775d1ea85ab0800000000000000
+      internalID: -5019070343659471859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9a793b9349bffe0800000000000000
+      internalID: -1154165903943292439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae32c784c857df7d0800000000000000
+      internalID: -2883018941075282966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e2f894a952531e0800000000000000
+      internalID: -2218825896820789670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42213e94bd7564e10800000000000000
+      internalID: 2181527668856656420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ceb4bbc8c5dba20800000000000000
+      internalID: 3079719479698779250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e7cd2f6af71a980800000000000000
+      internalID: -8529395864247173513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cb4b9e1f9348f40800000000000000
+      internalID: 5729768337092951189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73582ea61b065c470800000000000000
+      internalID: 8414237793930347831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221ef05bb5db01250800000000000000
+      internalID: 5913434512314851618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e4325b0fe1ff240800000000000000
+      internalID: 4827611344744435239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570257da6d1fde530800000000000000
+      internalID: 3886027957826035829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282404fc0b2934310800000000000000
+      internalID: 1388114398249239170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810cf37f4f4e94e30800000000000000
+      internalID: 4488370244422713368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ce6125f3c837410800000000000000
+      internalID: 1473675706668346406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2d3fd828aef330800000000000000
+      internalID: 3746616833516318285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9be9adc38af1e0800000000000000
+      internalID: -2163271751655776501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb0a5ce5610cad50800000000000000
+      internalID: 6749771478790179809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4faf0690b1db41e0800000000000000
+      internalID: -2212444235560407219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b041d15feb259ea0800000000000000
+      internalID: -5866734632710356808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13c64c370feefa60800000000000000
+      internalID: 7709862426459947805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e6785a922b76f60800000000000000
+      internalID: 8027580752751717888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0316c0957928767e0800000000000000
+      internalID: -1772304341801344720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e76a315f5031f40800000000000000
+      internalID: 5697904503708614192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe64eb9600a8f9990800000000000000
+      internalID: -7377025930230872337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea70a663436a900800000000000000
+      internalID: 695300600787086986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64279176cb24df410800000000000000
+      internalID: 1512438426817360454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b5d204acd82020800000000000000
+      internalID: 2317344605262427387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5747c87d2fa6ef3b0800000000000000
+      internalID: -5476822505605008267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b750cdf60d743e90800000000000000
+      internalID: -7046870047947466829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c4e3695ae044aa0800000000000000
+      internalID: -6177796684492420014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed8cf5c22d4c7170800000000000000
+      internalID: 8177495835143867878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5029f26631ca90b90800000000000000
+      internalID: -7275094523721575931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0f4072d3bb5f6e0800000000000000
+      internalID: -1804330204369981194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13d906540fcd8310800000000000000
+      internalID: 1409009875967136538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97236d2d1d4bb0b0800000000000000
+      internalID: -5711886914678478949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8136f643fa847d0800000000000000
+      internalID: -2933902517489952574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afe92e8686690150800000000000000
+      internalID: 5839311119959322529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef909114000373d90800000000000000
+      internalID: -7118167908385486338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b0b4776ed351720800000000000000
+      internalID: 2816225202043292527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d84ddfd13918800800000000000000
+      internalID: 612932781320998180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4390278f8f004a080800000000000000
+      internalID: -9177209071354115788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf8d6ec5ecb2f520800000000000000
+      internalID: 2734455618964131803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb58679fc7dd850800000000000000
+      internalID: 6403411656067890768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bbe89e5ae9992e0800000000000000
+      internalID: -2118487714275869948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79667b97ac9321710800000000000000
+      internalID: 1662454754241373847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94112d71eb449890800000000000000
+      internalID: -7452248051552283493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfa20ece22026e50800000000000000
+      internalID: 6801000787330904017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca7b0ee09a9a2df0800000000000000
+      internalID: -204180885832238400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e34dfa4da99dcf0800000000000000
+      internalID: -226980067931832743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec6deb9b357aa0d0800000000000000
+      internalID: -3410784868900180759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae93671744c7c8d0800000000000000
+      internalID: -2826074431537570130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33114155ca8af260800000000000000
+      internalID: 7132165539971011387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cbdfc1893f7d3a0800000000000000
+      internalID: -6640571290887537543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0eb4005dea0aae0800000000000000
+      internalID: -1540038842704469819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb050a5f62dde3f0800000000000000
+      internalID: -869807777319154711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38b2efd14fbef8f0800000000000000
+      internalID: -504755818568959942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93ece677cfeab640800000000000000
+      internalID: 5096649568295904157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500eaaec9f9a5a120800000000000000
+      internalID: 2424530864788135941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b0da8552f0f70f0800000000000000
+      internalID: -1117157529488651508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fea59b8f4a458a0800000000000000
+      internalID: -6317242989125374050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb886dab35682250800000000000000
+      internalID: 5920093017165302783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cefa08691087860800000000000000
+      internalID: 7527768523065519261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed08bc5bf7d477d0800000000000000
+      internalID: -2921472783664280093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f118b20a78783d480800000000000000
+      internalID: -8875601424039575265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f833a3d4934886c60800000000000000
+      internalID: 7811638935317787535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae6b8c9fce26420800000000000000
+      internalID: 2621918490641492703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa91dbc08a7ebc00800000000000000
+      internalID: 918306067624073903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecbe0e8de984c420800000000000000
+      internalID: 2649394134184279271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d7d779551f40b0800000000000000
+      internalID: -5742347525867187606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c50820a67df06d90800000000000000
+      internalID: -7106401526055696956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554ff2a21d4dc2690800000000000000
+      internalID: -7625486074224053163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924ea70b743eca330800000000000000
+      internalID: 3723600888971584553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194928ac4f2261a30800000000000000
+      internalID: 4185571338452374673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bdeee1174db2160800000000000000
+      internalID: 7001923627992931180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2088b681aa1bf4470800000000000000
+      internalID: 8381112775672039426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cd24e22d48c1ee0800000000000000
+      internalID: -1289009355080672180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae853a039c563780800000000000000
+      internalID: -8703667443245674843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fca8451504fc110800000000000000
+      internalID: 1283315136878792523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ffa203587273cf0800000000000000
+      internalID: -272705799440367805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f36dd31baed9570800000000000000
+      internalID: 8475188120748703629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab61ac38f3fe0090800000000000000
+      internalID: -8066241635079328849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86371fa651a515660800000000000000
+      internalID: 7372773113017234280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6a91272156d36e0800000000000000
+      internalID: -1856216341508675935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7e43092711ed190800000000000000
+      internalID: -7935886309636905032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8575ea1a6bf5160800000000000000
+      internalID: 7016527549997471950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb9da11027fe18f0800000000000000
+      internalID: -567744785894499341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffe5b7bba77fab30800000000000000
+      internalID: 4300787748567379964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fb9442c2ab56ee0800000000000000
+      internalID: -1268403021284786342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e420b66c5174710800000000000000
+      internalID: 1677333328161820166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f99ec4716333750800000000000000
+      internalID: 6283425378814500679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9b27aee670c4150800000000000000
+      internalID: 5858065388263356842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1175f236c92441a30800000000000000
+      internalID: 4185043193180411665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efaa413212728ad0800000000000000
+      internalID: -2701471404006920221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5e066ef0afe5190800000000000000
+      internalID: -7971659344202635827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f329b48244a88b0800000000000000
+      internalID: -5149228284087484550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c0abbb1e1e06500800000000000000
+      internalID: 387557927587286034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcc3d47095357bc0800000000000000
+      internalID: -3786061017183433549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad4c78b807e36b10800000000000000
+      internalID: 1973675086359317926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d742579616e289ea0800000000000000
+      internalID: -5865887518734080899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f2cfce74677c7f0800000000000000
+      internalID: -592374774685225174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0488e1fda481ba7b0800000000000000
+      internalID: -5212045433901250496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e8cd85780525b50800000000000000
+      internalID: 6580410547783372327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab98da70ed4dd5b10800000000000000
+      internalID: 1971966261934787002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b8b6e1f7734a750800000000000000
+      internalID: 6315233596591016821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f684b0b0f9cf976b0800000000000000
+      internalID: -5297925726609389457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5d8a45db808d900800000000000000
+      internalID: 709326550573045228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d813acef081705a30800000000000000
+      internalID: 4201983251181089165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c165e03e8a640840800000000000000
+      internalID: 5189389829575893449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de57a61fbcebfea0800000000000000
+      internalID: -5837812186492739883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383691d0e81c73c20800000000000000
+      internalID: 3186228077237199747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ee7ec1b0921a350800000000000000
+      internalID: 6026142904104775209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db43c9da88105ce20800000000000000
+      internalID: 3370101582696559805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f3a02f3078ce230800000000000000
+      internalID: 3669456247415521100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdceb28b0d82a3ff0800000000000000
+      internalID: -55687168480514853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3429f30836dca980800000000000000
+      internalID: -8526204458446019523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceabb1adaeb8f5a0800000000000000
+      internalID: -6487225610275148084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac9359221a43a10800000000000000
+      internalID: 1888311313679633050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07f4432aa3b892d0800000000000000
+      internalID: -3271667585967130865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae0b750253fc46e0800000000000000
+      internalID: -1851837813151297879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d45ccdabce3df8f0800000000000000
+      internalID: -505178538680494890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3fbd1f3a126e50800000000000000
+      internalID: 6801027245667204610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690da7238304a03f0800000000000000
+      internalID: -933863362616700778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb84b5d13e476f0800000000000000
+      internalID: -687675127855792568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043645f1b134a220800000000000000
+      internalID: 2496174733864088584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4627a36d12b8e34b0800000000000000
+      internalID: -5458772720882126236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0119ac73f16ea8a00800000000000000
+      internalID: 759672508919746832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b2f03a0d939b30800000000000000
+      internalID: 4292947536910660910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eb7d9d1d67e9930800000000000000
+      internalID: 4151886550157213310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2847d654fc81741f0800000000000000
+      internalID: -1060851908720364414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313b0f4ff3cc5470800000000000000
+      internalID: 8384792107567231295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba8d1aa11bc39110800000000000000
+      internalID: 1266579196950186672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b062a27aa8c84ffd0800000000000000
+      internalID: -2309066181796289013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a258af3f129bb8430800000000000000
+      internalID: 3786323467213374762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3438c972444cc6e20800000000000000
+      internalID: 3345264420230824771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad074f5ae68748cd0800000000000000
+      internalID: -2556786271813603110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6930a4eb32c8560800000000000000
+      internalID: 7317262794762721010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8169708b5a845f960800000000000000
+      internalID: 7635088619870852632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a588c14788991af40800000000000000
+      internalID: 5738036211589351514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099af05c8a0343760800000000000000
+      internalID: 7436622386114308496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2063e8d01c778c0800000000000000
+      internalID: -4001517479930756430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c316cbf86bbda9fc0800000000000000
+      internalID: -3487233384303009476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5374e9192392db450800000000000000
+      internalID: 6106081966952433461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499ad21482ba75600800000000000000
+      internalID: 457022076581947796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436f6da6f5ff2e8f0800000000000000
+      internalID: -512566622287366604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c2da36eabf11b0800000000000000
+      internalID: -5683618706726139499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dfae8ec011085c0800000000000000
+      internalID: -4215350504073790159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f66e1cdd5473730800000000000000
+      internalID: 3978725614548315998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf9d550e6e6a7090800000000000000
+      internalID: -8035989166273749051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5450c991f0bd1510800000000000000
+      internalID: 1521566800834221147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f6cad018a8ac40800000000000000
+      internalID: 5523849733313328913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c800021d5af330a50800000000000000
+      internalID: 6486097869754335372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ebf2c6612e65d40800000000000000
+      internalID: 5572890174849793595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ce7788370dfc050800000000000000
+      internalID: 5823102037842717855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef19ea04d43dc9690800000000000000
+      internalID: -7593962542902373890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df9f88938514d040800000000000000
+      internalID: 4671382368434495444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_220
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fd4ac39df96d0e0800000000000000
+      internalID: -2245431608823455964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_221
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc9cc6a5a18f5560800000000000000
+      internalID: 7304699669086248144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_222
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eedbfd45e49175f0800000000000000
+      internalID: -760663149472129308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_223
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1392f2dd60b64d2a0800000000000000
+      internalID: -6713623467277735631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470be3a01b20b7040800000000000000
+      internalID: 4646310399967146100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26337b9d271db3ab0800000000000000
+      internalID: -5027194267819887774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cd095469f48fa00800000000000000
+      internalID: 790469241434332213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e01d25ed0825c40800000000000000
+      internalID: 5499599787333324438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d386d500f08c70800000000000000
+      internalID: 8971434365586494445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65329ef7e4b4b2760800000000000000
+      internalID: 7434118410430653270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f3ad81fd2be440800000000000000
+      internalID: 4966113529592804867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7feffa4729889a0800000000000000
+      internalID: -6230569054600497237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2c416f73b9fedd0800000000000000
+      internalID: -2454572607239568679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adba5b0e453368b20800000000000000
+      internalID: 3136250630150400986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3235c19ca854b40800000000000000
+      internalID: 5423893922605900752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_235
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0a85d4d7fc3a850800000000000000
+      internalID: 6387176833617010928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_236
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff2627f47479c6d0800000000000000
+      internalID: -2969714433562628105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_237
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a578f18c9d5fca90800000000000000
+      internalID: -7291506344912718425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_238
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ad04ecc09505af0800000000000000
+      internalID: -409729654555878833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_239
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67abfe24972fa4b0800000000000000
+      internalID: -5427075508561270933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615b47e3ff2b6bb60800000000000000
+      internalID: 7761587817153869078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f0925954e9a210800000000000000
+      internalID: 1344857036035258568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16735705ac86b4ca0800000000000000
+      internalID: -6031612057790105759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b018ce28f97dd10800000000000000
+      internalID: 2150362731755146134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03531fb4cd9f85b20800000000000000
+      internalID: 3123521066143659312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc158ae36a069660800000000000000
+      internalID: 7392107262627880129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f04e06440530c1f0800000000000000
+      internalID: -1026762422568992521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8f1224bac53ebe0800000000000000
+      internalID: -1449212764464482139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955f87324b1ca1110800000000000000
+      internalID: 1232510427472655705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c23459df3c024a0800000000000000
+      internalID: -6620075958336279547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacd6702774c8f390800000000000000
+      internalID: -7784255939985089364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeaca81e8687f120800000000000000
+      internalID: 2447572867356602023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_252
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a6dd798d405b2e0800000000000000
+      internalID: -2110775522045892091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_253
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6f7ae0434ff09a0800000000000000
+      internalID: -6264520052227705131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425fa60ebab9a8840800000000000000
+      internalID: 5227161480023700772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTwo_Tilemap_Spritesheet_Ground_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c741baca431bfd0800000000000000
+      internalID: -2328021616164570057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

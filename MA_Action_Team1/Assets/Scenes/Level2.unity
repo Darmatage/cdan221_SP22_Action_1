@@ -575,6 +575,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1179777630}
   - component: {fileID: 1179777629}
+  - component: {fileID: 1179777631}
   m_Layer: 0
   m_Name: LevelTwo_Soundtrack
   m_TagString: Untagged
@@ -594,7 +595,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 24300002, guid: 37b8d915905124ee3ae393c3f18afb9e, type: 2}
   m_audioClip: {fileID: 8300000, guid: 2df68f8a6c4aa475c812c8f6305f02b8, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.555
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -692,6 +693,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1179777631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1179777628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32995e92674c74fd4bb49dc7db68e9b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1215336237
 GameObject:
   m_ObjectHideFlags: 0

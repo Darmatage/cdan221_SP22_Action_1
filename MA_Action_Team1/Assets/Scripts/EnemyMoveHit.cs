@@ -5,10 +5,12 @@ using UnityEngine;
 public class EnemyMoveHit : MonoBehaviour {
 
        public Animator anim;
+	   public Rigidbody2D rb2D; 
        public float speed = 4f;
        public Transform target;
        public int damage = 10;
-	   public float attackPush = 3.5f;
+	   //public float attackPush = 3.5f;
+	   public float knockBackForce = 20f;
 
        public int EnemyLives = 3;
        public GameHandler gameHandler;
@@ -19,6 +21,7 @@ public class EnemyMoveHit : MonoBehaviour {
 
        void Start () {
               anim = GetComponentInChildren<Animator>();
+			  rb2D = GetComponentInChildren<Rigidbody2D> (); 
               scaleX = gameObject.transform.localScale.x;
 
               if (GameObject.FindGameObjectWithTag ("Player") != null) {
@@ -55,23 +58,28 @@ public class EnemyMoveHit : MonoBehaviour {
 			anim.SetBool("Attack", true);
 			gameHandler.playerGetHit(damage);
 					 
-			float pushBackX = 0f;
-			if (other.gameObject.transform.position.x > gameObject.transform.position.x){
-				pushBackX = attackPush;
-			}
-			else {
-				pushBackX = attackPush * -1;
-			}
+			// float pushBackX = 0f;
+			// if (other.gameObject.transform.position.x > gameObject.transform.position.x){
+				// pushBackX = attackPush;
+			// }
+			// else {
+				// pushBackX = attackPush * -1;
+			// }
 			
-			float pushBackY = 0f;
-			if (other.gameObject.transform.position.y > gameObject.transform.position.y){
-				pushBackY = attackPush;
-			}
-			else {
-				pushBackY = attackPush * -1;
-			}
+			// float pushBackY = 0f;
+			// if (other.gameObject.transform.position.y > gameObject.transform.position.y){
+				// pushBackY = attackPush;
+			// }
+			// else {
+				// pushBackY = attackPush * -1;
+			// }
 			
-			other.gameObject. transform.position = new Vector3(transform.position.x + pushBackX, transform.position.y + pushBackY, 0);
+			// other.gameObject. transform.position = new Vector3(transform.position.x + pushBackX, transform.position.y + pushBackY, 0);
+		
+		Rigidbody2D pushRB = other.gameObject.GetComponent<Rigidbody2D>();
+		Vector2 moveDirectionPush = rb2D.transform.position - other.transform.position; 
+		pushRB.AddForce(moveDirectionPush.normalized * knockBackForce * -1, ForceMode2D.Impulse); 
+		StartCoroutine(EndKnockBack(pushRB));
 		}			 
 	}
 
@@ -80,6 +88,11 @@ public class EnemyMoveHit : MonoBehaviour {
 			isAttacking = false;
 			anim.SetBool("Attack", false);
 		}
+	}
+	
+	IEnumerator EndKnockBack(Rigidbody2D otherRB){
+		yield return new WaitForSeconds(0.2f);
+		otherRB.velocity= new Vector3(0,0,0);
 	}
 
        //DISPLAY the range of enemy's attack when selected in the Editor

@@ -108,6 +108,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4741472729711622752}
   - component: {fileID: 5251931238094128215}
+  - component: {fileID: 1065091267369409126}
   m_Layer: 0
   m_Name: Projectile_Art
   m_TagString: Untagged
@@ -170,7 +171,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 95
-  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: -3904020754617748078, guid: f258295091af54f58af3c67e211a0d71, type: 3}
   m_Color: {r: 0.5727127, g: 0.7854065, b: 0.8490566, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -181,3 +182,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &1065091267369409126
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8026588966587599730}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

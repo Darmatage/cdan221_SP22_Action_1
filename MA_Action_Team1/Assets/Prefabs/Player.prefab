@@ -232,9 +232,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 0}
   firePoint: {fileID: 4659404542928376820}
-  projectilePrefab: {fileID: 4558279075038482098, guid: e8bcd77597e934c7887a98890e596576, type: 3}
-  projectileSpeed: 10
-  attackRate: 2
+  projectileFire: {fileID: 4558279075038482098, guid: e8bcd77597e934c7887a98890e596576, type: 3}
+  projectileSpeedFire: 10
+  attackRateFire: 2
+  projectileIce: {fileID: 4558279075038482098, guid: 0d5c2122f51fdb64bbd3c3da865f86d8, type: 3}
+  projectileSpeedIce: 10
+  attackRateIce: 2
 --- !u!114 &870638595467852426
 MonoBehaviour:
   m_ObjectHideFlags: 0

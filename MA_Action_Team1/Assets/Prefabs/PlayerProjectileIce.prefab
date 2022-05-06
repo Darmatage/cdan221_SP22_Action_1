@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8446522647169197076}
   - component: {fileID: 687811931194445479}
   m_Layer: 0
-  m_Name: PlayerProjectile
+  m_Name: PlayerProjectileIce
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -94,10 +94,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 10
-  hitEffectAnim: {fileID: 7100895898089095630, guid: 6713e6cbaf3c0488f8d744e300424ac9, type: 3}
+  hitEffectAnim: {fileID: 3300430848619567915, guid: 81fa748f2cb214d4fa712e4ca513e981, type: 3}
   fizzleAnim: {fileID: 3300430848619567915, guid: cb219ca199dfd954599791e0a0838d3f, type: 3}
   destroyTime: 0.8
   SelfDestructTime: 0.8
+  isFire: 0
+  isIce: 1
 --- !u!1 &8026588966587599730
 GameObject:
   m_ObjectHideFlags: 0
@@ -108,6 +110,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4741472729711622752}
   - component: {fileID: 5251931238094128215}
+  - component: {fileID: 54667066529965740}
   m_Layer: 0
   m_Name: Projectile_Art
   m_TagString: Untagged
@@ -170,7 +173,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 95
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Sprite: {fileID: 6952339428569022747, guid: f258295091af54f58af3c67e211a0d71, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -181,3 +184,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &54667066529965740
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8026588966587599730}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0abb1bc58d36f304e92da46d4022c6b5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

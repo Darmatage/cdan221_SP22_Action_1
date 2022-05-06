@@ -208,6 +208,7 @@ MonoBehaviour:
   knockBackForce: 20
   attackRange: 10
   isAttacking: 0
+  isFrozen: 0
   startTimeBtwHits: 1
 --- !u!114 &-5606946196222087562
 MonoBehaviour:
@@ -223,8 +224,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   anim: {fileID: 0}
   healthLoot: {fileID: 7674955408493673939, guid: dde4e157b2f97455a82b21b13d7daa8f, type: 3}
-  maxHealth: 100
+  maxHealth: 75
   currentHealth: 0
+  iceBlock1: {fileID: 4028189372217744518}
+  iceBlock2: {fileID: 2327336344530363929}
+  iceBlock3: {fileID: 5254221752613130397}
+  iceBlock4: {fileID: 5888545498884194030}
+  iGotFrozen: 0
 --- !u!1 &2327336344530363929
 GameObject:
   m_ObjectHideFlags: 0
@@ -324,7 +330,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1429577723127316209
 Transform:
   m_ObjectHideFlags: 0

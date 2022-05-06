@@ -19,6 +19,9 @@ public class EnemyMoveHit : MonoBehaviour {
        public bool isAttacking = false;
        private float scaleX;
 
+	public bool isFrozen = false;
+
+
 	//Attack timer variables
 	private float timeBtwHits;
 	public float startTimeBtwHits = 1;
@@ -37,6 +40,10 @@ public class EnemyMoveHit : MonoBehaviour {
 		}
 	}
 
+	void Update(){
+		isFrozen = GetComponent<EnemyMeleeDamage>().iGotFrozen;
+	}
+
 	private void FixedUpdate(){
 		float DistToPlayer = Vector3.Distance(transform.position, target.position);
 		
@@ -53,7 +60,7 @@ public class EnemyMoveHit : MonoBehaviour {
 			}
 		}
 		
-		if (isAttacking){
+		if ((isAttacking)&&(!isFrozen)){
 			transform.position = Vector2.MoveTowards (transform.position, target.position, speed * Time.deltaTime);
 			if (isAttacking == false) {
 				anim.SetBool("Walk", true);

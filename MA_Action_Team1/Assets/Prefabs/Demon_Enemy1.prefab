@@ -225,6 +225,10 @@ MonoBehaviour:
   healthLoot: {fileID: 7674955408493673939, guid: dde4e157b2f97455a82b21b13d7daa8f, type: 3}
   maxHealth: 50
   currentHealth: 0
+  iceBlock1: {fileID: 7055920783869498096}
+  iceBlock2: {fileID: 8343157081614098603}
+  iceBlock3: {fileID: 4616935621305633087}
+  iceBlock4: {fileID: 4208394826636035604}
 --- !u!1 &4208394826636035604
 GameObject:
   m_ObjectHideFlags: 0
@@ -407,7 +411,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1263806157397256301
 Transform:
   m_ObjectHideFlags: 0

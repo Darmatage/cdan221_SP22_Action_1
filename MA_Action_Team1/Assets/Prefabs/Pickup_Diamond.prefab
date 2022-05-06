@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6501097494733800844}
   - component: {fileID: 4372633997638515996}
   m_Layer: 0
-  m_Name: Pickup_health_Art
+  m_Name: Pickup_Diamond_Art
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

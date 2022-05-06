@@ -217,22 +217,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afd5e82a3d0c34b399f84d89dec95613, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  anim: {fileID: 0}
   player: {fileID: 0}
   startFollowDistance: 0
   followDistance: 5
   walkSpeed: 4
-  followPlayer: 1
-  attackEnemy: 0
-  isAttacking: 0
-  enemyTarget: {fileID: 0}
-  startTimeBtwShots: 2
-  projectile: {fileID: 4558279075038482098, guid: 13c8968145578e145a358c0922f6b2db, type: 3}
   isBuddy1: 0
   isBuddy2: 0
   isBuddy3: 1
   Buddy1Distance: 3.5
   Buddy2Distance: 5
   Buddy3Distance: 6.5
+  followPlayer: 1
+  attackEnemy: 0
+  isAttacking: 0
+  peacefullTime: 4
+  enemyLayers:
+    serializedVersion: 2
+    m_Bits: 64
+  enemyTarget: {fileID: 0}
+  startTimeBtwShots: 2
+  projectile: {fileID: 4558279075038482098, guid: 13c8968145578e145a358c0922f6b2db, type: 3}
+  attackRange: 10
 --- !u!114 &3727782710254485424
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -245,6 +251,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7017839e77a424e3085139666323542c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  anim: {fileID: 0}
   speed: 2
   stoppingDistance: 4
   retreatDistance: 3

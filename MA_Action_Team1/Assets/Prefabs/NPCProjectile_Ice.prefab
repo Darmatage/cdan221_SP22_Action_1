@@ -94,10 +94,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameHandlerObj: {fileID: 0}
-  damage: 1
+  damage: 10
   speed: 10
   hitEffectAnim: {fileID: 3975351597579692840, guid: cc507a1a6c19e41859a0ea44a9387765, type: 3}
   SelfDestructTime: 2
+  attackPlayer: 1
+  enemyTrans: {fileID: 0}
 --- !u!1 &8026588966587599730
 GameObject:
   m_ObjectHideFlags: 0

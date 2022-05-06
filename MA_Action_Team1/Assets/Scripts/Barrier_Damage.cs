@@ -8,12 +8,18 @@ public class Barrier_Damage : MonoBehaviour {
        //public GameObject healthLoot;
        public int maxHealth = 40;
        public int currentHealth;
+	   
+	public GameObject barrierArt;
+	public GameObject barrierBlastedArt;	
 
-       void Start(){
-              rend = GetComponentInChildren<Renderer> ();
-              //anim = GetComponentInChildren<Animator> ();
-              currentHealth = maxHealth;
-       }
+	void Start(){
+		rend = GetComponentInChildren<Renderer> ();
+		//anim = GetComponentInChildren<Animator> ();
+		currentHealth = maxHealth;
+			  
+		barrierArt.SetActive(true);
+		barrierBlastedArt.SetActive(false);
+	}
 
        public void TakeDamage(int damage){
               currentHealth -= damage;
@@ -21,22 +27,25 @@ public class Barrier_Damage : MonoBehaviour {
               StartCoroutine(ResetColor());
               //anim.SetTrigger ("Hurt");
               if (currentHealth <= 0){
-                     Die();
+                     Blast();
               }
        }
 
-       void Die(){
-              //Instantiate (healthLoot, transform.position, Quaternion.identity);
-              //anim.SetBool ("Die", true);
-              GetComponent<Collider2D>().enabled = false;
-              StartCoroutine(Death());
+       void Blast(){
+            //Instantiate (healthLoot, transform.position, Quaternion.identity);
+            //anim.SetBool ("Die", true);
+            GetComponent<Collider2D>().enabled = false;
+			barrierArt.SetActive(false);
+			barrierBlastedArt.SetActive(true);
+			  
+              //StartCoroutine(Death());
        }
 
-       IEnumerator Death(){
-              yield return new WaitForSeconds(0.1f);
-              Debug.Log("You burnt a log");
-              Destroy(gameObject);
-       }
+       //IEnumerator Death(){
+              //yield return new WaitForSeconds(0.1f);
+              //Debug.Log("You burnt a log");
+              //Destroy(gameObject);
+       //}
 
        IEnumerator ResetColor(){
               yield return new WaitForSeconds(0.1f);

@@ -83,6 +83,7 @@ public class GameHandler : MonoBehaviour
 			hasFirePower = true;
 			hasIcePower = true; 
 			hasLightningPower = true;
+			updateStatsDisplay();
 		}
     }
 

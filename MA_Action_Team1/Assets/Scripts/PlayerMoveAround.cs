@@ -11,13 +11,17 @@ public class PlayerMoveAround : MonoBehaviour {
       public static float runSpeed = 10f;
       public float startSpeed = 10f;
       public bool isAlive = true;
+ 
+	//Get Last Direction
+	private Vector3 lastPosition;
+	public string currentDirection = "front";
 
       void Start(){
            anim = gameObject.GetComponentInChildren<Animator>();
            rb2D = transform.GetComponent<Rigidbody2D>();
       }
 
-	void Update(){
+	void Update(){	
 		//NOTE: Horizontal axis: [a] / left arrow is -1, [d] / right arrow is 1
 		//NOTE: Vertical axis: [w] / up arrow, [s] / down arrow
 		Vector3 hvMove = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), 0.0f);
@@ -43,6 +47,15 @@ public class PlayerMoveAround : MonoBehaviour {
 				anim.SetBool ("walk", false);
 			}
 		}
+		
+		//Direction capture:
+		Vector2 direction = transform.position - lastPosition;
+		//var localDirection = transform.InverseTransformDirection(direction);
+		lastPosition = transform.position;
+		if ((direction.x > 0)||(direction.x < 0)){currentDirection = "front";}
+		else if (direction.y > 0){currentDirection = "up";}
+		else if (direction.y < 0){currentDirection = "down";}
+		//Debug.Log("Direction = " + currentDirection);
 	}
 
 	//turn player left and right

@@ -6,6 +6,8 @@ public class PlayerAttackShoot : MonoBehaviour{
 
 	public Animator animator;
 	public Transform firePoint;
+	public Transform firePointUp;
+	public Transform firePointDown;
 	
 	public GameObject projectileFire;
 	public float projectileSpeedFire = 10f;
@@ -17,13 +19,23 @@ public class PlayerAttackShoot : MonoBehaviour{
 	public float attackRateIce = 2f;
 	private float nextAttackTimeIce = 0f;
 	
-
+	Vector2 fwd;
 
 	void Start(){
            animator = gameObject.GetComponentInChildren<Animator>();
 	}
 
 	void Update(){
+		
+		string direction = GetComponent<PlayerMoveAround>().currentDirection;
+		if (direction == "front"){
+			fwd = (firePoint.position - this.transform.position).normalized;
+		} else if (direction == "up"){
+			fwd = (firePointUp.position - firePoint.position).normalized;
+		} else if (direction == "down"){
+			fwd = (firePointDown.position - firePoint.position).normalized;
+		}
+		
 		if (Time.time >= nextAttackTimeFire){
 			if (Input.GetAxis("AttackFire") > 0){
 				playerFireAttack();
@@ -42,14 +54,14 @@ public class PlayerAttackShoot : MonoBehaviour{
 
 	void playerFireAttack(){
 		animator.SetTrigger("Shoot");
-		Vector2 fwd = (firePoint.position - this.transform.position).normalized;
+		//Vector2 fwd = (firePoint.position - this.transform.position).normalized;
 		GameObject projectile = Instantiate(projectileFire, firePoint.position, Quaternion.identity);
 		projectile.GetComponent<Rigidbody2D>().AddForce(fwd * projectileSpeedFire, ForceMode2D.Impulse);
 	}
 	
 	void playerIceAttack(){
 		animator.SetTrigger("Shoot");
-		Vector2 fwd = (firePoint.position - this.transform.position).normalized;
+		//Vector2 fwd = (firePoint.position - this.transform.position).normalized;
 		GameObject projectile = Instantiate(projectileIce, firePoint.position, Quaternion.identity);
 		projectile.GetComponent<Rigidbody2D>().AddForce(fwd * projectileSpeedIce, ForceMode2D.Impulse);
 	}

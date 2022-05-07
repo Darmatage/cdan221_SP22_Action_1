@@ -39,6 +39,21 @@ public class PlayerAttackMelee : MonoBehaviour{
 	}
 
 	void Update(){
+		string direction = GetComponent<PlayerMoveAround>().currentDirection;
+		if (direction == "front"){
+			isFront = true;
+			isUp = false;
+			isDown = false;
+		} else if (direction == "up"){
+			isFront = false;
+			isUp = true;
+			isDown = false;
+		} else if (direction == "down"){
+			isFront = false;
+			isUp = false;
+			isDown = true;
+		}
+		
 		if (Time.time >= nextAttackTime){
 			//if (Input.GetKeyDown(KeyCode.Space))
 			if (Input.GetAxis("AttackMelee") > 0){
@@ -55,7 +70,7 @@ public class PlayerAttackMelee : MonoBehaviour{
 				isLightning = true;
 				Attack();
 				nextLightningTime = Time.time + 1f / lightningRate;
-				Debug.Log("Time.time = " + Time.time + "nextLightningTime" + nextLightningTime);
+				//Debug.Log("Time.time = " + Time.time + "nextLightningTime" + nextLightningTime);
 			}
 		}		
 	}

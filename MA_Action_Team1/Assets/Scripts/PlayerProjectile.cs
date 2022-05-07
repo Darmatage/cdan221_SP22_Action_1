@@ -13,6 +13,8 @@ public class PlayerProjectile : MonoBehaviour{
 
 	public bool isFire = true;
 	public bool isIce = false;
+	
+	GameObject animEffect;
 
 	void Start(){
 		projectileArt = GetComponentInChildren<SpriteRenderer>();
@@ -36,7 +38,7 @@ public class PlayerProjectile : MonoBehaviour{
 
 
 		if ((other.gameObject.tag != "Player") && (other.gameObject.layer != LayerMask.NameToLayer("Friendlies"))){
-			GameObject animEffect = Instantiate (hitEffectAnim, transform.position, Quaternion.identity);
+			animEffect = Instantiate (hitEffectAnim, transform.position, Quaternion.identity);
 			projectileArt.enabled = false;
 			StopCoroutine (selfDestruct());
 			StartCoroutine (destroyBlast(animEffect));
@@ -55,8 +57,10 @@ public class PlayerProjectile : MonoBehaviour{
 		GameObject fizzleEffect = Instantiate (fizzleAnim, transform.position, Quaternion.identity);
 		fizzleEffect.transform.parent = gameObject.transform;
 		projectileArt.enabled = false;
+		//GetComponent<Collider2D>().enabled = false;
 		yield return new WaitForSeconds(0.5f);
         Destroy (fizzleEffect);
+		if (animEffect != null){Destroy(animEffect);}
 		Destroy (gameObject);
 	}
 	  

@@ -19,7 +19,7 @@ public class PlayerAttackShoot : MonoBehaviour{
 	public float attackRateIce = 2f;
 	private float nextAttackTimeIce = 0f;
 	
-	Vector2 fwd;
+	Vector3 fwd;
 
 	void Start(){
            animator = gameObject.GetComponentInChildren<Animator>();
@@ -27,6 +27,7 @@ public class PlayerAttackShoot : MonoBehaviour{
 
 	void Update(){
 		
+		//shooting using cardinal directions
 		string direction = GetComponent<PlayerMoveAround>().currentDirection;
 		if (direction == "front"){
 			fwd = (firePoint.position - this.transform.position).normalized;
@@ -35,6 +36,12 @@ public class PlayerAttackShoot : MonoBehaviour{
 		} else if (direction == "down"){
 			fwd = (firePointDown.position - firePoint.position).normalized;
 		}
+		
+		//trying to get non-cardinal directions
+		//Vector3 moveDirection = GetComponent<PlayerMoveAround>().direction;
+		//fwd = (firePoint.position - moveDirection).normalized;
+		//Debug.Log("MD " + moveDirection);
+		
 		
 		if (Time.time >= nextAttackTimeFire){
 			if (Input.GetAxis("AttackFire") > 0){

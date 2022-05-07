@@ -13,6 +13,7 @@ public class PlayerMoveAround : MonoBehaviour {
       public bool isAlive = true;
  
 	//Get Last Direction
+	public Vector2 direction;
 	private Vector3 lastPosition;
 	public string currentDirection = "front";
 
@@ -49,7 +50,7 @@ public class PlayerMoveAround : MonoBehaviour {
 		}
 		
 		//Direction capture:
-		Vector2 direction = transform.position - lastPosition;
+		direction = transform.position - lastPosition;
 		//var localDirection = transform.InverseTransformDirection(direction);
 		lastPosition = transform.position;
 		if ((direction.x > 0)||(direction.x < 0)){currentDirection = "front";}

@@ -12,7 +12,11 @@ public class PlayerAttackMelee : MonoBehaviour{
 	public Transform attackPt_Up;
 	public Transform attackPt_Down;
 	  
-	public float attackRange = 2.5f;
+	  
+	private float attackRange;
+	public float attackTailRange = 3f;
+	public float attackLightningRange = 2.5f;
+	
 	public float attackRate = 1f; //the smaller the fraction, the slower the cooldown
 	public float lightningRate = 0.3f; //the smaller the fraction, the slower the cooldown
 	private  float nextAttackTime = 0f;
@@ -65,7 +69,7 @@ public class PlayerAttackMelee : MonoBehaviour{
 		}
 		
 		if (Time.time >= nextLightningTime){		
-			if (Input.GetAxis("AttackLightning") > 0){
+			if ((Input.GetAxis("AttackLightning") > 0)&&(GameHandler.hasLightningPower)){
 				isTail = false;
 				isLightning = true;
 				Attack();
@@ -77,9 +81,10 @@ public class PlayerAttackMelee : MonoBehaviour{
 
 	void Attack(){
 		if (isTail){
-			anim.SetTrigger ("tailswing"); attackPt = attackPt_Front;
+			anim.SetTrigger ("tailswing"); attackPt = attackPt_Front; attackRange = attackTailRange;
 		} else if (isLightning){
 			anim.SetTrigger ("ShootLightning");
+			attackRange = attackLightningRange;
 			if (isUp){attackPt = LightningUp.transform; LightningUp.SetActive(true);}
 			else if (isDown){attackPt = LightningDown.transform; LightningDown.SetActive(true);}
 			else {attackPt = LightningFront.transform; LightningFront.SetActive(true);}
@@ -105,9 +110,10 @@ public class PlayerAttackMelee : MonoBehaviour{
 
 	//NOTE: to help see the attack sphere in editor:
 	void OnDrawGizmosSelected(){
-		Gizmos.DrawWireSphere(LightningFront.transform.position, attackRange);
-		Gizmos.DrawWireSphere(LightningUp.transform.position, attackRange);
-		Gizmos.DrawWireSphere(LightningDown.transform.position, attackRange);
+		Gizmos.DrawWireSphere(attackPt_Front.transform.position, attackTailRange);
+		Gizmos.DrawWireSphere(LightningFront.transform.position, attackLightningRange);
+		Gizmos.DrawWireSphere(LightningUp.transform.position, attackLightningRange);
+		Gizmos.DrawWireSphere(LightningDown.transform.position, attackLightningRange);
 	}
 	
 }

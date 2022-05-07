@@ -15,6 +15,7 @@ public class EnemyMeleeDamage : MonoBehaviour {
 	public GameObject iceBlock4;
 
 	public bool iGotFrozen = false;
+	public bool isPosessedBuddy = false;
 
 	void Start(){
 		rend = GetComponentInChildren<Renderer> ();
@@ -29,12 +30,18 @@ public class EnemyMeleeDamage : MonoBehaviour {
 	}
 
 	public void TakeDamage(int damage){
-		currentHealth -= damage;
-		rend.material.color = new Color(2.4f, 0.9f, 0.9f, 1f);
-		StartCoroutine(ResetColor());
-		anim.SetTrigger ("Hurt");
-		if (currentHealth <= 0){
-			Die();
+		if (isPosessedBuddy == false){
+			currentHealth -= damage;
+			rend.material.color = new Color(2.4f, 0.9f, 0.9f, 1f);
+			StartCoroutine(ResetColor());
+			anim.SetTrigger ("Hurt");
+			if (currentHealth <= 0){
+				Die();
+			}
+		}
+		else {
+			//relay damage to the Buddy Damage script
+			GetComponent<NPC_Dragon_Damage>().TakeDamage(damage);
 		}
 	}
 

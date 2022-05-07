@@ -191,6 +191,7 @@ MonoBehaviour:
   rb2D: {fileID: 0}
   startSpeed: 10
   isAlive: 1
+  direction: {x: 0, y: 0}
   currentDirection: front
 --- !u!114 &2920471500677209385
 MonoBehaviour:
@@ -221,13 +222,14 @@ MonoBehaviour:
   attackPt_Front: {fileID: 4659404542928376820}
   attackPt_Up: {fileID: 3426064060456472486}
   attackPt_Down: {fileID: 7730876086138999005}
-  attackRange: 0.5
-  attackRate: 2
-  lightningRate: 4
+  attackTailRange: 3
+  attackLightningRange: 2.5
+  attackRate: 1
+  lightningRate: 0.3
   attackDamage: 40
   enemyLayers:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 320
   isTail: 1
   isLightning: 0
   isFront: 1

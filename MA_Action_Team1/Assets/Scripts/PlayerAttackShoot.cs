@@ -44,14 +44,14 @@ public class PlayerAttackShoot : MonoBehaviour{
 		
 		
 		if (Time.time >= nextAttackTimeFire){
-			if (Input.GetAxis("AttackFire") > 0){
+			if ((Input.GetAxis("AttackFire") > 0)&&(GameHandler.hasFirePower)){
 				playerFireAttack();
 				nextAttackTimeFire = Time.time + 1f / attackRateFire;
 			}
 		}
 		
 		if (Time.time >= nextAttackTimeIce){
-			if (Input.GetAxis("AttackIce") > 0){
+			if ((Input.GetAxis("AttackIce") > 0)&&(GameHandler.hasIcePower)){
 				playerIceAttack();
 				nextAttackTimeIce = Time.time + 1f / attackRateIce;
 			}

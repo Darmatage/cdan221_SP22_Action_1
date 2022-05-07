@@ -67,8 +67,7 @@ public class GameHandler : MonoBehaviour
 
 
     void Update(){
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
+        if (Input.GetKeyDown(KeyCode.Escape)){
             if (GameisPaused)
             {
                 Resume();
@@ -78,6 +77,13 @@ public class GameHandler : MonoBehaviour
                 Pause();
             }
         }
+		
+		//cheat code to get all powers
+		if (Input.GetKeyDown("p")){
+			hasFirePower = true;
+			hasIcePower = true; 
+			hasLightningPower = true;
+		}
     }
 
     void Pause()

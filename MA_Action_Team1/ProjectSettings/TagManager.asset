@@ -8,6 +8,7 @@ TagManager:
   - PauseMenuSlider
   - enemyShooter
   - LightningIcon
+  - DialogueManager
   layers:
   - Default
   - TransparentFX

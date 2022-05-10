@@ -8,6 +8,12 @@ TextureImporter:
   - first:
       213: 7429822970295999662
     second: TreasureChest_1
+  - first:
+      213: -347051714107185806
+    second: TreasureChest_2
+  - first:
+      213: 6425987842468052431
+    second: TreasureChest_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -146,6 +152,48 @@ TextureImporter:
       bones: []
       spriteID: eacd78860a80c1760800000000000000
       internalID: 7429822970295999662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureChest_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27563f50e460f2bf0800000000000000
+      internalID: -347051714107185806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreasureChest_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd794975e1bd2950800000000000000
+      internalID: 6425987842468052431
       vertices: []
       indices: 
       edges: []

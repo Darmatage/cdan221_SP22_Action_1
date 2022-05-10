@@ -32,7 +32,7 @@ public class ImpactColorChange : MonoBehaviour
                 b = Random.Range(0.3f, 1f);
             }
 
-            SpriteRenderer squareRenderer = GetComponent<SpriteRenderer>();
+            SpriteRenderer squareRenderer = GetComponentInChildren<SpriteRenderer>();
             squareRenderer.color = new Color(r, g, b);
         }
     }

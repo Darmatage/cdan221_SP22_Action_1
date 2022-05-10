@@ -36,6 +36,10 @@ public class PlayerProjectile : MonoBehaviour{
 			other.gameObject.GetComponent<Barrier_Damage>().TakeDamage(damage);
 		}
 
+		if (other.gameObject.layer == LayerMask.NameToLayer("TreasureChest")) {
+			other.gameObject.GetComponent<TreasureChest_Damage>().TakeDamage(damage);
+		}
+
 
 		if ((other.gameObject.tag != "Player") && (other.gameObject.layer != LayerMask.NameToLayer("Friendlies"))){
 			animEffect = Instantiate (hitEffectAnim, transform.position, Quaternion.identity);

@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerAttackMelee : MonoBehaviour{
 
@@ -18,11 +19,17 @@ public class PlayerAttackMelee : MonoBehaviour{
 	public float attackLightningRange = 2.5f;
 	
 	public float attackRate = 1f; //the smaller the fraction, the slower the cooldown
-	public float lightningRate = 0.3f; //the smaller the fraction, the slower the cooldown
+	//public float lightningRate = 0.3f; //the smaller the fraction, the slower the cooldown
+
+	public float lightningTimerMax = 3f;       //set the number of seconds here
+	private float lightningTimer = 0f;
+	private bool lightningCooldown = false;   
+
 	private  float nextAttackTime = 0f;
 	private float nextLightningTime = 0f;
 	public int attackDamage = 20;
 	public LayerMask enemyLayers;
+	public LayerMask stoneLayers;
 
 	public bool isTail = true;
 	public bool isLightning = false;
@@ -35,11 +42,17 @@ public class PlayerAttackMelee : MonoBehaviour{
 	public GameObject LightningUp;
 	public GameObject LightningDown;
 
+	//lightning cooldown indicator
+	//tag == LightningIcon
+	private Image lightningIcon;
+
 	void Start(){
 		anim = gameObject.GetComponentInChildren<Animator>();
 		LightningFront.SetActive(false);
 		LightningUp.SetActive(false);
 		LightningDown.SetActive(false);
+		
+
 	}
 
 	void Update(){
@@ -68,16 +81,40 @@ public class PlayerAttackMelee : MonoBehaviour{
 			}
 		}
 		
-		if (Time.time >= nextLightningTime){		
+		
+		//if (Time.time >= nextLightningTime){
+		if (lightningCooldown == false){				
 			if ((Input.GetAxis("AttackLightning") > 0)&&(GameHandler.hasLightningPower)){
 				isTail = false;
 				isLightning = true;
 				Attack();
-				nextLightningTime = Time.time + 1f / lightningRate;
+				//nextLightningTime = Time.time + 1f / lightningRate;
+				
+				lightningIcon = GameObject.FindWithTag("LightningIcon").GetComponent<Image>();
+				lightningIcon.fillAmount = 0;
+				lightningCooldown = true;
+
+				//lightningIcon.fillAmount = nextLightningTime / lightningRate; 
 				//Debug.Log("Time.time = " + Time.time + "nextLightningTime" + nextLightningTime);
 			}
 		}		
 	}
+
+	   
+	void FixedUpdate(){
+        if (lightningCooldown == true){
+			lightningTimer += 0.01f;
+			//Debug.Log("time: " + theTimer);
+			//timerCircleDisplay.gameObject.SetActive(true);
+			lightningIcon.fillAmount = lightningTimer / lightningTimerMax;
+
+			if (lightningTimer >= lightningTimerMax){
+				lightningTimer = 0;
+				//Debug.Log("I do the thing!");       //can be replaced with the desired commands
+				lightningCooldown = false;
+			}
+		}
+	} 
 
 	void Attack(){
 		if (isTail){
@@ -98,7 +135,15 @@ public class PlayerAttackMelee : MonoBehaviour{
 			Debug.Log("We hit " + enemy.name);
 			enemy.GetComponent<EnemyMeleeDamage>().TakeDamage(attackDamage);
 		}
+		
+		Collider2D[] hitStone = Physics2D.OverlapCircleAll(attackPt.position, attackRange, stoneLayers);
+
+		foreach(Collider2D stone in hitStone){
+			Debug.Log("We hit " + stone.name);
+			stone.GetComponent<Barrier_Damage>().TakeDamage(attackDamage);
+		}		
 	}
+
 
 	IEnumerator TurnOffLightning(){
 		yield return new WaitForSeconds(1f);

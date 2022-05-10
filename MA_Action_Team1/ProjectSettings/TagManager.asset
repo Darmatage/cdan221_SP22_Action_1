@@ -7,6 +7,7 @@ TagManager:
   - GameHandler
   - PauseMenuSlider
   - enemyShooter
+  - LightningIcon
   layers:
   - Default
   - TransparentFX
@@ -19,7 +20,7 @@ TagManager:
   - Possessed
   - BarrierWood
   - TreasureChest
-  - 
+  - BarrierStone
   - 
   - 
   - 

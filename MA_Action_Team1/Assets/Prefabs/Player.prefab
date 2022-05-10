@@ -226,11 +226,14 @@ MonoBehaviour:
   attackTailRange: 3
   attackLightningRange: 2.5
   attackRate: 1
-  lightningRate: 0.3
+  lightningTimerMax: 3
   attackDamage: 40
   enemyLayers:
     serializedVersion: 2
     m_Bits: 320
+  stoneLayers:
+    serializedVersion: 2
+    m_Bits: 2048
   isTail: 1
   isLightning: 0
   isFront: 1

@@ -48,6 +48,28 @@ MonoBehaviour:
   dialogue: []
   counter: 0
   dialogueLength: 0
+--- !u!114 &1370948039584299835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 646037289459536674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fac45362846c1af47914f514b922aded, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WhereBuddy: {fileID: 1259374005038153990}
+  player: {fileID: 0}
+  playerPos: {x: 0, y: 0}
+  buddy1: {fileID: 0}
+  buddy2: {fileID: 0}
+  buddy3: {fileID: 0}
+  Buddy1TooFar: 0
+  Buddy2TooFar: 0
+  Buddy3TooFar: 0
+  BuddyThreshold: 20
 --- !u!1 &837198590461934466
 GameObject:
   m_ObjectHideFlags: 0
@@ -127,6 +149,85 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: ...
+--- !u!1 &1259374005038153990
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6932035859605249209}
+  - component: {fileID: 5097925610738016437}
+  - component: {fileID: 4856861903342565738}
+  m_Layer: 5
+  m_Name: TextWhereIsBuddy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &6932035859605249209
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1259374005038153990}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4489995033458000179}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 197.79}
+  m_SizeDelta: {x: 650, y: 80}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &5097925610738016437
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1259374005038153990}
+  m_CullTransparentMesh: 1
+--- !u!114 &4856861903342565738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1259374005038153990}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 50
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 5
+    m_MaxSize: 50
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Oh no! Where's your buddy\r?\n"
 --- !u!1 &1473286938190259419
 GameObject:
   m_ObjectHideFlags: 0
@@ -601,6 +702,7 @@ RectTransform:
   - {fileID: 4309872127551042195}
   - {fileID: 7952418592653277052}
   - {fileID: 6092981271002701217}
+  - {fileID: 6932035859605249209}
   - {fileID: 4489995033812009837}
   m_Father: {fileID: 344371121331917924}
   m_RootOrder: 1
@@ -1642,22 +1744,27 @@ PrefabInstance:
       objectReference: {fileID: 6484329138372677733}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8378608568872414890a684dccd093e9, type: 3}
---- !u!4 &939832842482409927 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3694462750849915178, guid: 8378608568872414890a684dccd093e9, type: 3}
-  m_PrefabInstance: {fileID: 4489995033251592429}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &8104657682575564798 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5635742051413010195, guid: 8378608568872414890a684dccd093e9, type: 3}
   m_PrefabInstance: {fileID: 4489995033251592429}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 646037289459536674}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: baabea4debf784ec39a8e45d3521cc09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!4 &939832842482409927 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3694462750849915178, guid: 8378608568872414890a684dccd093e9, type: 3}
+  m_PrefabInstance: {fileID: 4489995033251592429}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &646037289459536674 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3943048586960235471, guid: 8378608568872414890a684dccd093e9, type: 3}
+  m_PrefabInstance: {fileID: 4489995033251592429}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8611125712012848799
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1695,7 +1802,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5318601109426679282, guid: 6a5430aa503f8c548acd9c9dc0a23311, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5318601109426679282, guid: 6a5430aa503f8c548acd9c9dc0a23311, type: 3}
       propertyPath: m_AnchorMax.x

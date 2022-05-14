@@ -22,6 +22,7 @@ public class NPC_Dragon_Main : MonoBehaviour{
 	}
 	
     void Start(){
+		
         NPCcolor = posessedArt.GetComponent<SpriteRenderer>();
 		friendlyColor =  NPCcolor.color;
 		//enemyColor =  new Color(44, 24, 67, 1f);
@@ -68,6 +69,7 @@ public class NPC_Dragon_Main : MonoBehaviour{
 	//set the static bool for this one NPC to friendly -- does this effect all NPCs?
 	public void setFriendly(){
 		isFriendly = true;
+		GameObject.FindWithTag("GameHandler").GetComponent<WhereIsBuddy>().AddBuddy(gameObject.transform);
 	}
 
 }

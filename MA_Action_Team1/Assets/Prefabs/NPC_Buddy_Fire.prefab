@@ -174,7 +174,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0633800d1fcf4c14e96896fec46fbc04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  anim: {fileID: 0}
   newPowerLoot: {fileID: 7674955408493673939, guid: 07d48c71a4016d5409a4629746036866, type: 3}
+  newPowerWarpVFX: {fileID: 3985879551875726448, guid: a7d29cb0b727c6f479cda5eeac4b12bb, type: 3}
+  newPowerColor: {r: 1, g: 1, b: 1, a: 1}
   maxHealth: 100
   maxPossessed: 100
   currentHealth: 0

@@ -30,6 +30,7 @@ public class PlayerAttackMelee : MonoBehaviour{
 	public int attackDamage = 20;
 	public LayerMask enemyLayers;
 	public LayerMask stoneLayers;
+	public LayerMask posessedLayers;
 
 	public bool isTail = true;
 	public bool isLightning = false;
@@ -141,7 +142,15 @@ public class PlayerAttackMelee : MonoBehaviour{
 		foreach(Collider2D stone in hitStone){
 			Debug.Log("We hit " + stone.name);
 			stone.GetComponent<Barrier_Damage>().TakeDamage(attackDamage);
-		}		
+		}	
+
+		Collider2D[] hitPosessed = Physics2D.OverlapCircleAll(attackPt.position, attackRange, posessedLayers);
+
+		foreach(Collider2D posessed in hitPosessed){
+			Debug.Log("I hit a possessed NPC dragon");
+			posessed.GetComponent<NPC_Dragon_Damage>().TakeDamage(attackDamage);
+		}
+
 	}
 
 

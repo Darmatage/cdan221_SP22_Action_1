@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class NPC_Dragon_Damage : MonoBehaviour{
 	private Renderer rend;
-    //public Animator anim;
+    public Animator anim;
     public GameObject newPowerLoot;
+	public GameObject newPowerWarpVFX;
+	public Color newPowerColor = Color.white;
+	
     public int maxHealth = 100;
 	public int maxPossessed = 100;
     public int currentHealth;
@@ -14,7 +17,7 @@ public class NPC_Dragon_Damage : MonoBehaviour{
 
     void Start(){
 		rend = GetComponentInChildren<Renderer> ();
-		//anim = GetComponentInChildren<Animator> ();
+		anim = GetComponentInChildren<Animator> ();
 		currentHealth = maxHealth;
 		currentPossessed = maxPossessed;
     }
@@ -28,7 +31,7 @@ public class NPC_Dragon_Damage : MonoBehaviour{
 			currentHealth -= damage;
 			//rend.material.color = new Color(2.4f, 0.9f, 0.9f, 1f);
             //StartCoroutine(ResetColor());
-            //anim.SetTrigger ("Hurt");
+            anim.SetTrigger ("Hurt");
 			if (currentHealth <= 0){
                Die();
             }
@@ -37,7 +40,11 @@ public class NPC_Dragon_Damage : MonoBehaviour{
 			currentPossessed -= damage;
 			if (currentPossessed <= 0){
                GetComponent<NPC_Dragon_Main>().setFriendly();
-			   Instantiate (newPowerLoot, transform.position, Quaternion.identity);
+			   
+			   GameObject WarpEffect = Instantiate (newPowerWarpVFX, transform.position, Quaternion.identity);
+			   WarpEffect.GetComponent<Warp_PowerDelivery>().WarpColor = newPowerColor;
+			   WarpEffect.GetComponent<Warp_PowerDelivery>().powerUp = newPowerLoot;
+			   
             }
 		}
     }

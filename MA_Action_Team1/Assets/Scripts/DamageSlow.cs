@@ -29,6 +29,7 @@ public class DamageSlow : MonoBehaviour {
        void OnTriggerStay2D(Collider2D other){
               if (other.gameObject.tag == "Player") {
                      isDamaging = true;
+					 Debug.Log("the goop damages you! Oh, nooooooo!");
               }
        }
 

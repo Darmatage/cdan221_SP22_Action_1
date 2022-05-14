@@ -12,7 +12,7 @@ public class NPC_Dragon_Main : MonoBehaviour{
     
     void Start(){
         NPCcolor = GetComponentInChildren<SpriteRenderer>();
-		//friendlyColor =  new Color(255, 255, 255, 1f);
+		friendlyColor =  NPCcolor.color;
 		//enemyColor =  new Color(44, 24, 67, 1f);
     }
 

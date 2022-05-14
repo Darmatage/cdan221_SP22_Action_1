@@ -21,6 +21,7 @@ public class GameHandler : MonoBehaviour
 	public static bool hasIcePower = false; 
 	public static bool hasLightningPower = false;
 
+	public GameObject PowersBG;
 	public GameObject FirePowerIcon;
 	public GameObject IcePowerIcon;
 	public GameObject LightningPowerIcon;
@@ -50,6 +51,7 @@ public class GameHandler : MonoBehaviour
     }
 
     void Start(){
+		PowersBG.SetActive(false);
 		FirePowerIcon.SetActive(false);
 		IcePowerIcon.SetActive(false);
 		LightningPowerIcon.SetActive(false);
@@ -139,14 +141,18 @@ public class GameHandler : MonoBehaviour
 
 
 	public void GetNewPower(string newPower){
+		
 		if (newPower == "fire"){
 			hasFirePower = true;
+			player.GetComponent<PlayerVFX>().powerup("red");
 		}
 		else if (newPower == "ice"){
 			hasIcePower = true;
+			player.GetComponent<PlayerVFX>().powerup("blue");
 		}
 		else if (newPower == "lightning"){
 			hasLightningPower = true;
+			player.GetComponent<PlayerVFX>().powerup("yellow");
 		}
 		updateStatsDisplay();
 	}
@@ -158,6 +164,9 @@ public class GameHandler : MonoBehaviour
 
         Text diamondsTextTemp = diamondsText.GetComponent<Text>();
         diamondsTextTemp.text = "DIAMONDS: " + gotDiamonds;
+
+		if ((hasFirePower) || (hasIcePower) || (hasLightningPower)){ PowersBG.SetActive(true);}
+		else{{PowersBG.SetActive(false);}}
 		
 		if (hasFirePower == true){FirePowerIcon.SetActive(true);} 
 		else {FirePowerIcon.SetActive(false);}

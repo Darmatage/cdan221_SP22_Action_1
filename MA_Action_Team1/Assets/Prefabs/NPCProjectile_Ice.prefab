@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 4558279075038482098}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4741472729711622752}
   m_Father: {fileID: 0}
@@ -96,7 +96,7 @@ MonoBehaviour:
   gameHandlerObj: {fileID: 0}
   damage: 10
   speed: 10
-  hitEffectAnim: {fileID: 3975351597579692840, guid: cc507a1a6c19e41859a0ea44a9387765, type: 3}
+  hitEffectAnim: {fileID: 3300430848619567915, guid: 81fa748f2cb214d4fa712e4ca513e981, type: 3}
   SelfDestructTime: 2
   attackPlayer: 1
   enemyTrans: {fileID: 0}
@@ -126,7 +126,7 @@ Transform:
   m_GameObject: {fileID: 8026588966587599730}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 4558279075038482099}
   m_RootOrder: 0

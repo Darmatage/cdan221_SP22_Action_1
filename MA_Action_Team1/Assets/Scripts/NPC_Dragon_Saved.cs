@@ -39,6 +39,8 @@ public class NPC_Dragon_Saved : MonoBehaviour{
 	public GameObject projectile;
 	public float attackRange = 10f;
 
+	private float scaleX; 
+
     void Start(){
         player = GameObject.FindWithTag("Player");
 		anim = GetComponent<NPC_Dragon_Main>().anim;
@@ -47,6 +49,8 @@ public class NPC_Dragon_Saved : MonoBehaviour{
 		else if (isBuddy2){followDistance = Buddy2Distance;}
 		else if (isBuddy3){followDistance = Buddy3Distance;}
 		startFollowDistance = followDistance + 1f;
+		
+		scaleX = gameObject.transform.localScale.x;
     }
 
     void Update(){
@@ -85,6 +89,13 @@ public class NPC_Dragon_Saved : MonoBehaviour{
 				transform.position = Vector2.MoveTowards (transform.position, playerPos, walkSpeed * Time.deltaTime);
 				anim.SetBool("Walk", true);
 			}
+			
+			//turn buddy toward player
+			if (player.transform.position.x > gameObject.transform.position.x){
+				gameObject.transform.localScale = new Vector2(scaleX, gameObject.transform.localScale.y);
+			} else {
+				gameObject.transform.localScale = new Vector2(scaleX * -1, gameObject.transform.localScale.y);
+			}
 		}
 
 		//FOLLOW ENEMY
@@ -109,6 +120,14 @@ public class NPC_Dragon_Saved : MonoBehaviour{
 				transform.position = Vector2.MoveTowards (transform.position, enemyPos, walkSpeed * Time.deltaTime);
 				anim.SetBool("Walk", true);
 			}
+			
+			//turn buddy toward enemy
+			if (enemyTarget.transform.position.x > gameObject.transform.position.x){
+				gameObject.transform.localScale = new Vector2(scaleX, gameObject.transform.localScale.y);
+			} else {
+				gameObject.transform.localScale = new Vector2(scaleX * -1, gameObject.transform.localScale.y);
+			}
+			
 		}
 		
 

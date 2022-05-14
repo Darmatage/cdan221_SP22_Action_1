@@ -10,11 +10,13 @@ public class PlayerAttackShoot : MonoBehaviour{
 	public Transform firePointDown;
 	
 	public GameObject projectileFire;
+	public AudioSource fireSFX;
 	public float projectileSpeedFire = 10f;
 	public float attackRateFire = 2f;
 	private float nextAttackTimeFire = 0f;
 	
 	public GameObject projectileIce;
+	//public AudioSource iceSFX;
 	public float projectileSpeedIce = 10f;
 	public float attackRateIce = 2f;
 	private float nextAttackTimeIce = 0f;
@@ -61,6 +63,9 @@ public class PlayerAttackShoot : MonoBehaviour{
 
 	void playerFireAttack(){
 		animator.SetTrigger("Shoot");
+		//if (!fireSFX.isPlaying){
+			fireSFX.Play();
+			//}
 		//Vector2 fwd = (firePoint.position - this.transform.position).normalized;
 		GameObject projectile = Instantiate(projectileFire, firePoint.position, Quaternion.identity);
 		projectile.GetComponent<Rigidbody2D>().AddForce(fwd * projectileSpeedFire, ForceMode2D.Impulse);
@@ -68,6 +73,7 @@ public class PlayerAttackShoot : MonoBehaviour{
 	
 	void playerIceAttack(){
 		animator.SetTrigger("Shoot");
+		//if (!iceSFX.isPlaying){iceSFX.Play();}
 		//Vector2 fwd = (firePoint.position - this.transform.position).normalized;
 		GameObject projectile = Instantiate(projectileIce, firePoint.position, Quaternion.identity);
 		projectile.GetComponent<Rigidbody2D>().AddForce(fwd * projectileSpeedIce, ForceMode2D.Impulse);

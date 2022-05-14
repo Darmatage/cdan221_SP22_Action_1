@@ -25,6 +25,8 @@ public class EnemyMoveShoot : MonoBehaviour
     public bool isAttacking = false;
     private float scaleX;
 
+	public bool isFrozen = false;
+
     void Start()
     {
         Physics2D.queriesStartInColliders = false;
@@ -44,10 +46,13 @@ public class EnemyMoveShoot : MonoBehaviour
         //}
     }
 
-    void Update()
-    {
+
+
+    void Update(){
+		isFrozen = GetComponent<EnemyMeleeDamage>().iGotFrozen;
+		
         float DistToPlayer = Vector3.Distance(transform.position, player.position);
-        if ((player != null) && (DistToPlayer <= attackRange))
+        if ((player != null) && (DistToPlayer <= attackRange)&&(!isFrozen))
         {
             // approach player
             if (Vector2.Distance(transform.position, player.position) > stoppingDistance)

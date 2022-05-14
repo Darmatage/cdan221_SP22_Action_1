@@ -6,8 +6,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UnityEngine.Audio;
 
-public class GameHandler : MonoBehaviour
-{
+public class GameHandler : MonoBehaviour{
 
     private GameObject player;
     public static int playerHealth = 100;
@@ -17,10 +16,17 @@ public class GameHandler : MonoBehaviour
     public static int gotDiamonds = 0;
     public GameObject diamondsText;
 
+//the actual power activaion variables
 	public static bool hasFirePower = false;
 	public static bool hasIcePower = false; 
 	public static bool hasLightningPower = false;
 
+//Turn on powers player is supposed to have at the start of later levels
+	public bool turnOnFirePower = false;
+	public bool turnOnIcePower = false; 
+	public bool turnOnLightningPower = false;
+
+//Power HUD icons
 	public GameObject PowersBG;
 	public GameObject FirePowerIcon;
 	public GameObject IcePowerIcon;
@@ -28,7 +34,7 @@ public class GameHandler : MonoBehaviour
 
     public bool isDefending = false;
 
-    public static bool stairCaseUnlocked = false;
+    //public static bool stairCaseUnlocked = false;
     //this is a flag check. Add to other scripts: GameHandler.stairCaseUnlocked = true;
 
     private string sceneName;
@@ -58,13 +64,18 @@ public class GameHandler : MonoBehaviour
 		
         player = GameObject.FindWithTag("Player");
         sceneName = SceneManager.GetActiveScene().name;
-        updateStatsDisplay();
         pauseMenuUI.SetActive(false);
         GameisPaused = false;
 		
 		//if (sceneName=="MainMenu"){ //uncomment these two lines when the MainMenu exists
         playerHealth = StartPlayerHealth;
         //}
+		
+		//enable powers at the start of later scenes
+		if (turnOnFirePower == true){hasFirePower = true;}
+		if (turnOnIcePower == true){hasIcePower = true;}
+		if (turnOnLightningPower == true){hasLightningPower = true;}
+		updateStatsDisplay();
     }
 
 
@@ -124,7 +135,7 @@ public class GameHandler : MonoBehaviour
             {
                 updateStatsDisplay();
             }
-            //player.GetComponent<PlayerHurt>().playerHit();
+            player.GetComponent<PlayerHurt>().playerHit();
         }
 
         if (playerHealth >= StartPlayerHealth)
@@ -157,8 +168,7 @@ public class GameHandler : MonoBehaviour
 		updateStatsDisplay();
 	}
 
-    public void updateStatsDisplay()
-    {
+    public void updateStatsDisplay(){
         Text healthTextTemp = healthText.GetComponent<Text>();
         healthTextTemp.text = "HEALTH: " + playerHealth;
 
@@ -181,7 +191,7 @@ public class GameHandler : MonoBehaviour
 
     public void playerDies()
     {
-        //player.GetComponent<PlayerHurt>().playerDead();
+        player.GetComponent<PlayerHurt>().playerDead();
         StartCoroutine(DeathPause());
     }
 
@@ -189,7 +199,7 @@ public class GameHandler : MonoBehaviour
     {
         player.GetComponent<PlayerMoveAround>().isAlive = false;
         //player.GetComponent<PlayerJump>().isAlive = false;
-        yield return new WaitForSeconds(1.0f);
+        yield return new WaitForSeconds(2.0f);
         SceneManager.LoadScene("SceneLose");
     }
 

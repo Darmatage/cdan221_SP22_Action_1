@@ -96,7 +96,7 @@ MonoBehaviour:
   gameHandlerObj: {fileID: 0}
   damage: 10
   speed: 10
-  hitEffectAnim: {fileID: 3975351597579692840, guid: cc507a1a6c19e41859a0ea44a9387765, type: 3}
+  hitEffectAnim: {fileID: 3300430848619567915, guid: 3ee31f1336a78ca48bad5e3ec6c9f7f6, type: 3}
   SelfDestructTime: 2
   attackPlayer: 1
   enemyTrans: {fileID: 0}

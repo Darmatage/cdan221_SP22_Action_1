@@ -286,6 +286,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 24100000, guid: 37b8d915905124ee3ae393c3f18afb9e, type: 2}
     - target: {fileID: 5635742051413010195, guid: 8378608568872414890a684dccd093e9, type: 3}
+      propertyPath: PowersBG
+      value: 
+      objectReference: {fileID: 2081670528}
+    - target: {fileID: 5635742051413010195, guid: 8378608568872414890a684dccd093e9, type: 3}
       propertyPath: healthText
       value: 
       objectReference: {fileID: 1023375904}

@@ -20,6 +20,7 @@ public class NPC_Dragon_Damage : MonoBehaviour{
 		anim = GetComponent<NPC_Dragon_Main>().anim;
 		currentHealth = maxHealth;
 		currentPossessed = maxPossessed;
+		newPowerColor = GetComponent<NPC_Dragon_Main>().friendlyColor;
     }
 	
 	void Update(){

@@ -17,6 +17,10 @@ public class NPC_Dragon_Main : MonoBehaviour{
 	public Animator anim;
 	
 	
+	void Awake(){
+		anim = buddyArt.GetComponent<Animator>();
+	}
+	
     void Start(){
         NPCcolor = posessedArt.GetComponent<SpriteRenderer>();
 		friendlyColor =  NPCcolor.color;

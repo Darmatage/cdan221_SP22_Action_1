@@ -9,7 +9,7 @@ public class VFX_destroySelf : MonoBehaviour{
     }
 
     IEnumerator destroySelf(){
-        yield return new WaitForSeconds(2.5f);
+        yield return new WaitForSeconds(1f);
 		Destroy(gameObject);
     }
 }

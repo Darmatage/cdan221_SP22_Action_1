@@ -199,5 +199,5 @@ MonoBehaviour:
   gameHandlerObj: {fileID: 0}
   damage: 1
   speed: 10
-  hitEffectAnim: {fileID: 0}
+  hitEffectAnim: {fileID: 1496232630638616887, guid: b2d88ba8e85bb499da26cd70dd7e9d45, type: 3}
   SelfDestructTime: 2

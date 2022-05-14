@@ -38,6 +38,18 @@ TextureImporter:
   - first:
       213: 7885627838800795778
     second: NPCDragonBuddy_Rough_SpriteSheet_11
+  - first:
+      213: 1049012271985785784
+    second: NPCDragonBuddy_Rough_SpriteSheet_12
+  - first:
+      213: 8993581016626284766
+    second: NPCDragonBuddy_Rough_SpriteSheet_13
+  - first:
+      213: -1317275630793841597
+    second: NPCDragonBuddy_Rough_SpriteSheet_14
+  - first:
+      213: 1087711174584132916
+    second: NPCDragonBuddy_Rough_SpriteSheet_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -268,8 +280,8 @@ TextureImporter:
       name: NPCDragonBuddy_Rough_SpriteSheet_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
+        x: 1024
+        y: 1024
         width: 512
         height: 512
       alignment: 0
@@ -289,8 +301,8 @@ TextureImporter:
       name: NPCDragonBuddy_Rough_SpriteSheet_7
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
+        x: 1536
+        y: 1024
         width: 512
         height: 512
       alignment: 0
@@ -310,7 +322,7 @@ TextureImporter:
       name: NPCDragonBuddy_Rough_SpriteSheet_8
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 0
         y: 512
         width: 512
         height: 512
@@ -331,7 +343,7 @@ TextureImporter:
       name: NPCDragonBuddy_Rough_SpriteSheet_9
       rect:
         serializedVersion: 2
-        x: 1536
+        x: 512
         y: 512
         width: 512
         height: 512
@@ -352,8 +364,8 @@ TextureImporter:
       name: NPCDragonBuddy_Rough_SpriteSheet_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 1024
+        y: 512
         width: 512
         height: 512
       alignment: 0
@@ -373,8 +385,8 @@ TextureImporter:
       name: NPCDragonBuddy_Rough_SpriteSheet_11
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
+        x: 1536
+        y: 512
         width: 512
         height: 512
       alignment: 0
@@ -386,6 +398,90 @@ TextureImporter:
       bones: []
       spriteID: 28817a25db06f6d60800000000000000
       internalID: 7885627838800795778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCDragonBuddy_Rough_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbfcbc7a17de8e00800000000000000
+      internalID: 1049012271985785784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCDragonBuddy_Rough_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c4bad84e9fcc70800000000000000
+      internalID: 8993581016626284766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCDragonBuddy_Rough_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34421430bc818bde0800000000000000
+      internalID: -1317275630793841597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCDragonBuddy_Rough_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4356f43ec83581f00800000000000000
+      internalID: 1087711174584132916
       vertices: []
       indices: 
       edges: []

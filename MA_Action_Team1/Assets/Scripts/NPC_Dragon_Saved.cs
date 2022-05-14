@@ -41,7 +41,7 @@ public class NPC_Dragon_Saved : MonoBehaviour{
 
     void Start(){
         player = GameObject.FindWithTag("Player");
-		anim = GetComponentInChildren<Animator>();
+		anim = GetComponent<NPC_Dragon_Main>().anim;
 
 		if (isBuddy1){followDistance = Buddy1Distance;}
 		else if (isBuddy2){followDistance = Buddy2Distance;}
@@ -50,7 +50,7 @@ public class NPC_Dragon_Saved : MonoBehaviour{
     }
 
     void Update(){
-        
+        anim = GetComponent<NPC_Dragon_Main>().anim;
 		//listen for player attacking an enemy, enter combat until player stops attacking for some time
 		if ((Input.GetAxis("AttackFire") > 0)||(Input.GetAxis("AttackMelee") > 0)){
 			followPlayer = false;

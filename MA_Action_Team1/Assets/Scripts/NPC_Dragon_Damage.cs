@@ -17,13 +17,14 @@ public class NPC_Dragon_Damage : MonoBehaviour{
 
     void Start(){
 		rend = GetComponentInChildren<Renderer> ();
-		anim = GetComponentInChildren<Animator> ();
+		anim = GetComponent<NPC_Dragon_Main>().anim;
 		currentHealth = maxHealth;
 		currentPossessed = maxPossessed;
     }
 	
 	void Update(){
 		amIFriendly = GetComponent<NPC_Dragon_Main>().amIFriendly();
+		anim = GetComponent<NPC_Dragon_Main>().anim;
 	}
 
     public void TakeDamage(int damage){

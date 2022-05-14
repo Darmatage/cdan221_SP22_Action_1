@@ -35,7 +35,7 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 		timeBtwShots = startTimeBtwShots;
 
 		rend = GetComponentInChildren<Renderer> ();
-		anim = GetComponentInChildren<Animator> ();
+		anim = GetComponent<NPC_Dragon_Main>().anim;
 
 		if (GameObject.FindWithTag ("GameHandler") != null) {
 		 gameHandler = GameObject.FindWithTag ("GameHandler").GetComponent<GameHandler> ();
@@ -43,6 +43,7 @@ public class NPC_Dragon_Enemy : MonoBehaviour{
 	}
 
 	void Update () {
+		anim = GetComponent<NPC_Dragon_Main>().anim;
 		float DistToPlayer = Vector3.Distance(transform.position, player.position);
 		if ((player != null) && (DistToPlayer <= attackRange)) {
 			// approach player

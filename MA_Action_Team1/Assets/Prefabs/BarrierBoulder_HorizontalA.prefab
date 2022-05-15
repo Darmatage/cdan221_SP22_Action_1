@@ -240,5 +240,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 40
   currentHealth: 0
-  barrierArt: {fileID: 0}
-  barrierBlastedArt: {fileID: 0}
+  barrierArt: {fileID: 2336935847531377116}
+  barrierBlastedArt: {fileID: 2278905709365170027}

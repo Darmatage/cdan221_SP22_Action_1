@@ -784,7 +784,7 @@ MonoBehaviour:
   stoppingDistance: 4
   retreatDistance: 3
   startTimeBtwShots: 2
-  projectile: {fileID: 4558279075038482098, guid: 77df805d75ce10546adce6090cec9862, type: 3}
+  projectile: {fileID: 4558279075038482098, guid: 13c8968145578e145a358c0922f6b2db, type: 3}
   damage: 5
   attackRange: 10
   isAttacking: 0

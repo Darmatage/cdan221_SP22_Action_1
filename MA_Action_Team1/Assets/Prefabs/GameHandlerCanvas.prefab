@@ -82,7 +82,7 @@ GameObject:
   - component: {fileID: 4777986191855918592}
   - component: {fileID: 5204329002036611141}
   m_Layer: 5
-  m_Name: Text
+  m_Name: TextDialogue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -341,7 +341,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 233.8, y: -72.4}
-  m_SizeDelta: {x: 100, y: 40}
+  m_SizeDelta: {x: 120, y: 45}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8418982404022651001
 CanvasRenderer:
@@ -1970,13 +1970,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6a5430aa503f8c548acd9c9dc0a23311, type: 3}
---- !u!1 &4489995033812009834 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5318601109426679285, guid: 6a5430aa503f8c548acd9c9dc0a23311, type: 3}
-  m_PrefabInstance: {fileID: 8611125712012848799}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &4489995033812009837 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5318601109426679282, guid: 6a5430aa503f8c548acd9c9dc0a23311, type: 3}
+  m_PrefabInstance: {fileID: 8611125712012848799}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4489995033812009834 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5318601109426679285, guid: 6a5430aa503f8c548acd9c9dc0a23311, type: 3}
   m_PrefabInstance: {fileID: 8611125712012848799}
   m_PrefabAsset: {fileID: 0}

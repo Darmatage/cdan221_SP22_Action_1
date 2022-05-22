@@ -96,7 +96,7 @@ MonoBehaviour:
   gameHandlerObj: {fileID: 0}
   damage: 1
   speed: 10
-  hitEffectAnim: {fileID: 3300430848619567915, guid: dc2e6d64491ce46428d28208b8278532, type: 3}
+  hitEffectAnim: {fileID: 3975351597579692840, guid: cc507a1a6c19e41859a0ea44a9387765, type: 3}
   SelfDestructTime: 2
   attackPlayer: 1
   enemyTrans: {fileID: 0}
@@ -110,9 +110,9 @@ GameObject:
   m_Component:
   - component: {fileID: 4741472729711622752}
   - component: {fileID: 5251931238094128215}
-  - component: {fileID: 4180893056956361107}
+  - component: {fileID: 3094724573238960553}
   m_Layer: 0
-  m_Name: ProjectileLightning_Art
+  m_Name: Projectile_Art
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -127,7 +127,7 @@ Transform:
   m_GameObject: {fileID: 8026588966587599730}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.6, y: 1.6, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 4558279075038482099}
   m_RootOrder: 0
@@ -172,7 +172,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 110
+  m_SortingOrder: 95
   m_Sprite: {fileID: -8199984718165358240, guid: ed4b7fc5c8c8b5746a35bc9fc738836a, type: 3}
   m_Color: {r: 0.9245283, g: 0.9245283, b: 0.63234246, a: 1}
   m_FlipX: 0
@@ -184,7 +184,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &4180893056956361107
+--- !u!95 &3094724573238960553
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 0
@@ -194,7 +194,7 @@ Animator:
   m_GameObject: {fileID: 8026588966587599730}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b4eb4105e2452d645ab95fa5567c770b, type: 2}
+  m_Controller: {fileID: 9100000, guid: 9c2dbc200e30546029007f40e6517194, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

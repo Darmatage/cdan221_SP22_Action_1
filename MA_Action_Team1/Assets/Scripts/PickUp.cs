@@ -13,6 +13,9 @@ public class PickUp : MonoBehaviour{
 	  public bool isPowerLightning = false; // destroy rock barriars, powerful attack, slow recharge
       public bool isPowerIce = false; // freeze lava or water to allow player to pass over, briefly freeze enemy	  
       public AudioSource Diamond_PickUpSFX;
+    public AudioSource PowerUp_Fire_SFX;
+    public AudioSource PowerUp_ice_SFX;
+    public AudioSource PowerUp_Thunder_SFX;
 
       public int healthBoost = 10;
       //public float speedBoost = 2f;
@@ -48,12 +51,20 @@ public class PickUp : MonoBehaviour{
 
                 if (isPowerFire == true) {
                       gameHandler.GetNewPower("fire");
+                //if(!PowerUp_Fire.isPlaying){
+                PowerUp_Fire_SFX.Play();
+
                 }
 				if (isPowerIce == true) {
                       gameHandler.GetNewPower("ice");
+                //if(!PowerUp_Ice.isPlaying){
+                PowerUp_ice_SFX.Play();
+
                 }
 				if (isPowerLightning == true) {
                       gameHandler.GetNewPower("lightning");
+                //if(!PowerUp_Thunder.isPlaying){
+                PowerUp_Thunder_SFX.Play();
                 }
             }
       }

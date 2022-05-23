@@ -43,7 +43,7 @@ public class PlayerAttackMelee : MonoBehaviour{
 	public GameObject LightningUp;
 	public GameObject LightningDown;
 	public AudioSource thunderSFX;
-	//public AudioSource tailthumpSFX;
+	public AudioSource TailThump1_SFX;
 
 	//lightning cooldown indicator
 	//tag == LightningIcon
@@ -122,7 +122,7 @@ public class PlayerAttackMelee : MonoBehaviour{
 	void Attack(){
 		if (isTail){
 			anim.SetTrigger ("tailswing"); 
-			//if (!tailthumpSFX.isPlaying){tailthumpSFX.Play();}
+			if (!TailThump1_SFX.isPlaying){TailThump1_SFX.Play();}
 			attackPt = attackPt_Front; 
 			attackRange = attackTailRange;
 		} else if (isLightning){

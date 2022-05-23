@@ -12,6 +12,9 @@ public class EnemyProjectile : MonoBehaviour
     private Vector2 target;
     public GameObject hitEffectAnim;
     public float SelfDestructTime = 2.0f;
+    public AudioSource GoopSplat1SFX;
+    public AudioSource GoopSplat2SFX;
+    public AudioSource GoopSplat3SFX;
 
     void Start()
     {
@@ -37,6 +40,14 @@ public class EnemyProjectile : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             gameHandlerObj.playerGetHit(damage);
+            //if(!GoopSplat1.isPlaying{
+            GoopSplat1SFX.Play();
+
+            //if(!GoopSplat2.isPlaying{
+            GoopSplat2SFX.Play();
+
+            //if(!GoopSplat3.isPlaying{
+            GoopSplat3SFX.Play();
         }
         if (collision.gameObject.tag != "enemyShooter")
         {

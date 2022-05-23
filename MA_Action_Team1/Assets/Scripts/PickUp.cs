@@ -12,7 +12,7 @@ public class PickUp : MonoBehaviour{
       public bool isPowerFire = false; // destroy log barriars and attack, small attack, fast recharge
 	  public bool isPowerLightning = false; // destroy rock barriars, powerful attack, slow recharge
       public bool isPowerIce = false; // freeze lava or water to allow player to pass over, briefly freeze enemy	  
-	  
+      public AudioSource Diamond_PickUpSFX;
 
       public int healthBoost = 10;
       //public float speedBoost = 2f;
@@ -36,6 +36,9 @@ public class PickUp : MonoBehaviour{
 
 				if (isDiamond == true) {
                       gameHandler.playerGetDiamonds(1);
+                //if(!Diamond_PickUp.isPlaying){
+                Diamond_PickUpSFX.Play();
+
                 }
 				
 				if (isDiamondDoorOpen == true) {
